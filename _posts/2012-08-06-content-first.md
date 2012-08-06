@@ -2,6 +2,7 @@
 layout: application
 title: "An Event Apart DC: Content First!"
 date: 2012-08-06 09:06:38 -0400
+categories: aneventapartdc
 ---
 
 Presented by [Jeffrey Zeldman](http://www.zeldman.com).

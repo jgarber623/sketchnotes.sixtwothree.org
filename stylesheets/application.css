@@ -353,7 +353,7 @@ figure {
 		margin: 0 auto;
 		max-width: 60%;
 		min-width: 280px;
-		padding: 0 20px 40px 20px;
+		padding: 40px 20px;
 	}
 
 	h1 {
@@ -362,6 +362,7 @@ figure {
 
 	header[role=banner] h1 {
 		font-size: 3em;
+        margin: 0;
 	}
 
 	header[role=banner] h1 a {
@@ -373,6 +374,10 @@ figure {
 		text-decoration: underline;
 	}
 
+    div[role=main] {
+        padding: 20px 0;
+    }
+
 	a {
 		color: #d82;
 		text-decoration: underline;
@@ -383,19 +388,37 @@ figure {
 	}
 
 	footer[role=contentinfo] {
-		border-top: 1px solid #000;
-		font-size: 75%;
-		margin-top: 2em;
+        background: rgba( 0, 0, 0, 0.3 );
+        border-radius: 5px;
+		font-size: 0.75em;
+        padding: 20px;
 	}
 
 	footer[role=contentinfo] p {
-		margin-top: 2em;
+		margin: 0;
 	}
 
+    footer[role=contentinfo] a {
+        color: #eee;
+    }
+
 	.posts-list {
+        font-size: 1.2em;
 		list-style: none;
-		padding: 0;
+		padding: 0 0 0 1em;
 	}
+
+    .posts-list li {
+        position: relative;
+    }
+
+    .posts-list li:before {
+        content: "»";
+        display: block;
+        left: -1em;
+        position: absolute;
+        top: 0;
+    }
 
 	.posts-list li + li {
 		margin-top: 0.8em;

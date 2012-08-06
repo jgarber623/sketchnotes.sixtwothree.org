@@ -44,7 +44,7 @@ Presented by [Brad Frost](http://bradfrostweb.com).
 
 ## Demo Time ##
 
-- [http://twitter.com/brad_frost/status/232552532382187520](http://twitter.com/brad_frost/status/232552532382187520)
+- [Demo links](http://twitter.com/brad_frost/status/232552532382187520)
 - Scale up images slightly for a boost in apparent quality. Could this be a better solution than doubling all images?
 - Social icon loading [is heavy](http://www.zurb.com/article/883/small-painful-buttons-why-social-media-bu).
 

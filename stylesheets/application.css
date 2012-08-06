@@ -420,7 +420,8 @@ figure {
         top: 0;
     }
 
-	.posts-list li + li {
+	.posts-list li + li,
+    article li + li {
 		margin-top: 0.8em;
 	}
 

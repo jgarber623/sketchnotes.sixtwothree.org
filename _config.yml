@@ -1,5 +1,6 @@
 # Jekyll configuration
 exclude: [CNAME, Gemfile, Gemfile.lock, Rakefile]
+permalink: /:categories/:title
 
 # Site variables
 name: Sketchnotes

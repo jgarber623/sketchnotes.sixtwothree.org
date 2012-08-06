@@ -434,4 +434,15 @@ figure {
         font-size: 0.8em;
     }
 
+    article h1,
+    article h2,
+    article h3,
+    article h4,
+    article h5,
+    article h6 {
+        background: rgba( 0, 0, 0, 0.3 );
+        border-radius: 5px;
+        padding: 20px;
+    }
+
 /* @end */

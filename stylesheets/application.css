@@ -442,7 +442,21 @@ figure {
     article h6 {
         background: rgba( 0, 0, 0, 0.3 );
         border-radius: 5px;
-        padding: 20px;
+        padding: 10px 20px;
+    }
+
+    article header h1 {
+        background: transparent;
+        padding: 0;
+    }
+
+    article header a {
+        color: #eee;
+        text-decoration: none;
+    }
+
+    article header a:hover {
+        text-decoration: underline;
     }
 
 /* @end */

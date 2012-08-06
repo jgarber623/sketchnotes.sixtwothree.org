@@ -22,7 +22,7 @@ namespace :post do
 			f.write( file )
 		end
 
-		# system %Q{}
+		system %Q{open #{filepath}}
 	end
 
 	desc 'Delete all posts'

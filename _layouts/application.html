@@ -4,12 +4,39 @@
 	<meta charset="utf-8">
 
 	<title>{{ site.name }}{% if page.title %}: {{ page.title }}{% endif %}</title>
+
+	<link rel="stylesheet" href="/stylesheets/application.css">
+
+	<meta name="viewport" content="width=device-width">
 </head>
 <body>
 
-	{% for post in site.posts %}
-		{ post.title }<br>
-	{% endfor %}
+	<header role="banner">
+		<h1><a href="/">Sketchnotes</a></h1>
+	</header>
+	<div role="main">
+		{% if page.is_index %}
+			<ul class="posts-list">
+				{% for post in site.posts %}
+					<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		{% else %}
+			{% assign post = page %}
+
+			<article>
+				<header>
+					<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+				</header>
+
+				{{ content}}
+
+			</article>
+		{% endif %}
+	</div>
+	<footer role="contentinfo">
+		<p>Some rights reserved.</p>
+	</footer>
 
 </body>
 </html>

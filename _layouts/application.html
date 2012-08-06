@@ -2,12 +2,14 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	
+
 	<title>{{ site.name }}{% if page.title %}: {{ page.title }}{% endif %}</title>
 </head>
 <body>
 
-
+	{% for post in site.posts %}
+		{ post.title }<br>
+	{% endfor %}
 
 </body>
 </html>

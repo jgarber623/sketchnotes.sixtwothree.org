@@ -362,7 +362,7 @@ figure {
     h4,
     h5,
     h6 {
-		font-weight: normal;
+        font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	}
 
 	header[role=banner] h1 {

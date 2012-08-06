@@ -1,6 +1,6 @@
 ---
 layout: application
-title: "An Event Apart DC: Creating UI Pattern Libraries"
+title: "Creating UI Pattern Libraries"
 date: 2012-08-06 10:14:38 -0400
 categories: aneventapartdc
 ---

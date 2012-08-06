@@ -1,5 +1,5 @@
 # Jekyll configuration
-exclude: [Gemfile, Gemfile.lock, Rakefile]
+exclude: [CNAME, Gemfile, Gemfile.lock, Rakefile]
 
 # Site variables
 name: Sketchnotes

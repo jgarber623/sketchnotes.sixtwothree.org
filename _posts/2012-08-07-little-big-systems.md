@@ -42,12 +42,12 @@ The five principles of craft:
 
 ### Make For Makers ###
 
-- [Mast Brothers Chocolate](http://mastbrothers.com): New York-based chocolatiers who spend three months every year in South America working on cocoa plantations.
+- [Mast Brothers Chocolate](http://mastbrothers.com/): New York-based chocolatiers who spend three months every year in South America working on cocoa plantations.
 - 54 million active Wordpress installations worldwide.
 - We have unintentionally been making systems that strangle excellence. Think: horrible, horrible CMSes.
 - When we fail to make for the makers, we are making it that much more difficult for them to serve the end users.
 - Create content systems built around workflow.
-- [Voice & Tone](http://voiceandtone.com) is a tool absolutely created for makers. **Dig through this site.**
+- [Voice & Tone](http://voiceandtone.com/) is a tool absolutely created for makers. **Dig through this site.**
 
 ### Take The Time ###
 

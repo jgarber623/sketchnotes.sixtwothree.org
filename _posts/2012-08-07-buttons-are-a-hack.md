@@ -5,7 +5,7 @@ date: 2012-08-07 11:29:29 -0400
 categories: aneventapartdc
 ---
 
-Presented by [Josh Clark](http://globalmoxie.com).
+Presented by [Josh Clark](http://globalmoxie.com/).
 
 ## The New Rules of Designing for Touch ##
 

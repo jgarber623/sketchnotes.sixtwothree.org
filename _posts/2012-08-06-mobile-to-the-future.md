@@ -5,9 +5,9 @@ date: 2012-08-06 13:59:47 -0400
 categories: aneventapartdc
 ---
 
-Presented by [Luke Wroblewski](http://www.lukew.com).
+Presented by [Luke Wroblewski](http://www.lukew.com/).
 
-- Mobile may be the [seventh form of mass media](http://en.wikipedia.org/wiki/Seven_mass_media) after print, recorded sound, motion pictures, radio, television, and the Internet. Theory posited by [Tomi Ahonen](http://mobile7th.futuretext.com).
+- Mobile may be the [seventh form of mass media](http://en.wikipedia.org/wiki/Seven_mass_media) after print, recorded sound, motion pictures, radio, television, and the Internet. Theory posited by [Tomi Ahonen](http://mobile7th.futuretext.com/).
 - There are more iPhones sold every day than there are babies being born (378,000 vs. 371,000).
 - Android and iOS are taking a huge bite out of personal computing market share.
 - By the end of 2012, there will be more mobile devices connecting to the Internet than there are people on Earth.
@@ -19,10 +19,10 @@ Presented by [Luke Wroblewski](http://www.lukew.com).
 - 5-10% of all sessions led to someone forgetting a password and needing to recover it.
 - Steven Hoober: "Mobile must not be a dumbed-down, limited experience."
 - Use `<input type="email" autocapitalize="off" autocomplete="off">` for email address form fields.
-- [Box](https://www.box.com) gave a "Show password" option on their login form. Why not flip that around with a "Hide password" button instead?
+- [Box](https://www.box.com/) gave a "Show password" option on their login form. Why not flip that around with a "Hide password" button instead?
 - Input Masks: `example@me.com` (Twitter does this on their mobile login with the `@` symbol already filled in.)
 - Quora: "Let me login wihtout a password on this browser" is selected by default. To login later, you simploy tap on a picture of your user (or login as another user, à la Google).
-- [Bagcheck](https://bagcheck.com): Type your name or email address, auto-complete, then list out possible login approaches that that user has used.
+- [Bagcheck](https://bagcheck.com/): Type your name or email address, auto-complete, then list out possible login approaches that that user has used.
 - _The_ login screen for mobile:
 	- Don't remove critical features
 	- Use input types & attributes
@@ -51,7 +51,7 @@ Presented by [Luke Wroblewski](http://www.lukew.com).
 - Phone number inputm mask: `(___) ___-____`
 - Ask for ZIP code, then show a list of potential city and state combinations.
 - `<input type="text" pattern="[0-9]">`
-- Look at how [Square](https://squareup.com) handles entering credit card information for some pretty awesome input masks.
+- Look at how [Square](https://squareup.com/) handles entering credit card information for some pretty awesome input masks.
 - Amazon Prime users buy 130% more than non-Prime users thanks to reduced effort (1-Click purchasing, 2-day shipping, etc.).
 
 ### Mobile-First Checkout Approach ###

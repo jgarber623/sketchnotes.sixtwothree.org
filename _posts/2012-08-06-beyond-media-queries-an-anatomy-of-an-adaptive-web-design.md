@@ -5,7 +5,7 @@ date: 2012-08-06 15:16:30 -0400
 categories: aneventapartdc
 ---
 
-Presented by [Brad Frost](http://bradfrostweb.com).
+Presented by [Brad Frost](http://bradfrostweb.com/).
 
 ## Principles of Adaptive Design ##
 

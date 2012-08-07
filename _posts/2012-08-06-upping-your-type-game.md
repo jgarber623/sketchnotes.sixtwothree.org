@@ -5,19 +5,19 @@ date: 2012-08-06 11:32:07 -0400
 categories: aneventapartdc
 ---
 
-Presented by [Jessica Hische](http://jessicahische.is).
+Presented by [Jessica Hische](http://jessicahische.is/).
 
 - Specialist in profession. Generalist in life.
-- [Don't Fear The Internet](http://www.dontfeartheinternet.com)
+- [Don't Fear The Internet](http://www.dontfeartheinternet.com/)
 - "To be a good tour guide, you must remember what it was like to first discover something."
 - Crawl before you walk: learn how to make links colors other than blue before diving into responsive web design.
-- [Jess and Russ](http://jessandruss.us)
-- [Daily Drop Cap](http://www.dailydropcap.com)
+- [Jess and Russ](http://jessandruss.us/)
+- [Daily Drop Cap](http://www.dailydropcap.com/)
 - Lettering is _drawing_. Calligraphy is _writing_.
 - Higher x-height makes type easier to read at smaller sizes.
 - Don't ever set your kerning to zero in Photoshop. Use "auto" or "metrics."
-- [Nick Sherman](http://nicksherman.com) loves him some pizza, [woodtype](http://www.flickr.com/photos/nicksherman/7698048560/), and monster wrestling.
-- [Hamilton Wood Type & Printing Museum](http://woodtype.org)
+- [Nick Sherman](http://nicksherman.com/) loves him some pizza, [woodtype](http://www.flickr.com/photos/nicksherman/7698048560/), and monster wrestling.
+- [Hamilton Wood Type & Printing Museum](http://woodtype.org/)
 - [Phototypesetting](http://en.wikipedia.org/wiki/Phototypesetting) killed the [linotype](http://en.wikipedia.org/wiki/Linotype_machine).
 - Line height = leading + height of the type.
  

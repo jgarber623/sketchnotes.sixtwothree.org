@@ -53,7 +53,7 @@ The government's plan:
 - Within one year, make two key services available on mobile.
 - When practical, publish a plan for improving additional existing services as practical.
 
-That last bullet is incredibly risky and a recipe for crappy mobile sites that do two things then kick users over to a desktop experience. It ignores a long-term plan. "You have to know the endstate you want" (Gerard Gober, Comcast).
+**That last bullet is incredibly risky** and a recipe for crappy mobile sites that do two things then kick users over to a desktop experience. It ignores a long-term plan. "You have to know the endstate you want" (Gerard Gober, Comcast).
 
 ### Adaptive Content ###
 

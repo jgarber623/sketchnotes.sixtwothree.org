@@ -23,7 +23,7 @@ Presented by [Josh Clark](http://globalmoxie.com/).
 - [Web gestures must sidestep built-in gestures in browser and OS.](https://twitter.com/globalmoxie/status/232866222289596416)
 - [LukeW](http://www.lukew.com/ff/entry.asp?1441): "The Web browser is inside of every application instead of every application being inside the Web browser."
 
-## Interestingn Application Interactions ##
+## Interesting Application Interactions ##
 
 - [Adobe Proto](http://www.adobe.com/products/proto.html): a touch app offering quick wireframing with gestures that borrow from sketch shorthand.
 - The [Clear app](http://www.realmacsoftware.com/clear/) was inspired by games and instruments.

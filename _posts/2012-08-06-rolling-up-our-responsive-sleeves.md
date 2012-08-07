@@ -31,7 +31,7 @@ As available real estate changes, questions about the following come up:
 
 - If you're finding content that doesn't fit in the mobile context, ask yourself: "Does this content make sense in any context?"
 - "Simplify [your content] before you supress."
-- LukeW's articles [RESS: Responsive Design + Server Side Components](http://www.lukew.com/ff/entry.asp?1392)
+- LukeW's article [RESS: Responsive Design + Server Side Components](http://www.lukew.com/ff/entry.asp?1392)
 - [Contents Magazine](http://contentsmagazine.com) uses a similar navigation approach to [Viget](http://www.viget.com): Content-first, then navigation.
 - [Grey Goose's website](http://greygoose.com/) has been brought up a couple of times by several speakers.
 - Design your source order.

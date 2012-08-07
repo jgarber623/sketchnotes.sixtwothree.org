@@ -55,7 +55,9 @@ Presented by [Kevin M. Hoffman](http://kevinmhoffman.com/).
 	3. What can be eliminated?
 - Use different colored Post-It notes to indicate which elements answer which questions.
 
-> Ellen Lupton: "Design is **art** that people can **use**."
+Ellen Lupton:
+
+> Design is **art** that people can **use**.
 
 ## Ten-Second Gut Check ##
 

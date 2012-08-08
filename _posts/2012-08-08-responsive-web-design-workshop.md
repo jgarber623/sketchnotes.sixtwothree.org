@@ -60,13 +60,28 @@ Mark Boulton, [A New Canon](http://vimeo.com/35719862):
 - Examples of responsive frameworks: [Golden Grid System](http://goldengridsystem.com/) and [Foundation](http://foundation.zurb.com/)
 - Frameworks are great for prototyping, but can incur substantial maintenance debt. Most are desktop-centric.
 
-### Design your Content Heirarchy ###
-
-- This is effectively designing your source order.
-- 
-
 ## Images & Media ##
 
+- `img { max-width: 100% }` shrink-wraps images to the width of their containers.
+- Size images slightly _higher_ than your reference design (~125%).
+- It may be more appropriate to serve different images at different sizes.
+- Screen size does **not** correlate to bandwidth.
+
+### Responsive Images ###
+
+- Regarding the usage of [Filament's Responsive Images](https://github.com/filamentgroup/Responsive-Images/) on the Boston Globe's site: [Preloaders, cookies, and race conditions](http://blog.yoav.ws/2011/09/Preloaders-cookies-and-race-conditions).
+- [Adaptive Images](http://adaptive-images.com/)
+	- Works with a mobile-first approach
+	- Could poetntially show the small `src` from the `img` element and not enhance
+- [Responsive images with the `<noscript>` element](http://www.headlondon.com/our-thoughts/technology/posts/creating-responsive-images-using-the-noscript-tag/): a really ugly technique, but interesting nonetheless.
+- Content negotiation via third-party service [sencha.io](http://www.sencha.com/).
+- Brett Jankford's [Categorizr](http://www.brettjankord.com/2012/01/16/categorizr-a-modern-device-detection-script/)
+- Scott Jehl's [picturefill](https://github.com/scottjehl/picturefill/) brings the proposed `<picture>` element to current browsers.
+
+### Backgrounds ###
+
+- `background-size: contain;` preserves original image's proportions and aspect ratio.
+- `background-size: cover;` preserves proportions and aspect ratio, but will be as large as possible to cover its container.
 
 ## Media Queries ##
 

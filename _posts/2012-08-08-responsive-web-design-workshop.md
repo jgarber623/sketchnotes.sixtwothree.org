@@ -89,8 +89,7 @@ Mark Boulton, [A New Canon](http://vimeo.com/35719862):
 - [Creating Intrinsic Ratios for Video](http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/)
 - Size `<object>` element to a reasonable size for small screens (say, 300px).
 - [FitVidsJS](http://fitvidsjs.com/): jQuery plugin for fluid width video embeds.
-- Craig Mod's A List Apart article, [A Simpler Page](http://www.alistapart.com/articles/a-simpler-page/).
-	- Demo: [craigmod.com/bibliotype/demo/](http://craigmod.com/bibliotype/demo/)
+- Craig Mod's A List Apart article, [A Simpler Page](http://www.alistapart.com/articles/a-simpler-page/). Demo: [craigmod.com/bibliotype/demo/](http://craigmod.com/bibliotype/demo/)
 - Filament Group's picturefill has optional HD/SD preferences.
 
 ## Media Queries ##

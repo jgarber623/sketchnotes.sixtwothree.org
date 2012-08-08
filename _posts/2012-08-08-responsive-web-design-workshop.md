@@ -17,10 +17,6 @@ Presented by [Ethan Marcotte](http://ethanmarcotte.com/).
 > We must accept the ebb and flow of things.
 
 - [Interactive Architecture](http://www.interactive-architecture.com/) by Michael Fox & Miles Kemp
-
-## The Flexible Grid ##
-
-- Hold down Option or Shift when resizing windows is awesome and helpful.
 - Example: [Designing Monsters](http://designingmonsters.com/)
 - Example: [Andersson-Wise Architects](http://www.anderssonwise.com/)
 - Example: [AIDS.gov](http://aids.gov/), the first American government site to launch with a respnosive web design
@@ -29,6 +25,13 @@ Presented by [Ethan Marcotte](http://ethanmarcotte.com/).
 - **Do not define breakpoints upfront.** Instead, start with content and content heirarchy.
 - When designing responsively, get out of Photoshop as early as you feel you can.
 - Kevin Hoffman: "Sketch mobile first, then adapt from there."
+- Brad Frost's [Test on real mobile devices without breaking the bank](http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/)
+- Mobile Portland's [Device Lab](http://mobileportland.com/content/device-lab-update-creating-non-profit-setting-board-and-moving-forward)
+- Mobile first **and** Content first: ensure that each piece of content has the right to be on the page.
+
+## The Flexible Grid ##
+
+
 
 ## Images & Media ##
 

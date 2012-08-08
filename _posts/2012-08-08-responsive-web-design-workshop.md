@@ -128,7 +128,18 @@ Mark Boulton, [A New Canon](http://vimeo.com/35719862):
 
 ## Advanced Layout Trickery ##
 
+### Margins ###
 
+- Examples: [The Great Discontent](http://thegreatdiscontent.com/) and [Strange Native](http://www.strangenative.com/) (proportional margins on paragraphs in a content container).
+- The Boston Globe pulls ads outside of the containing element/article text.
+- Proportional Negative Margins: uses The Formula, measured against the context that the ad sits in.
+
+### CSS3 Features ###
+
+- Multiple Backgrounds: For say, styling blockquotes. Treat these as enhancements and provide fallbacks for older browsers.
+- Flexbox: [The specification](http://www.w3.org/TR/css3-flexbox/) is nearly complete.
+	- Flexible items by default have an `order` of 0. Setting `order` on flex items will place them in order _after_ the elements grouped as 0.
+- [Template Layout Module](http://www.w3.org/TR/css3-layout/) is some kind of witchcraft. This is movement toward **source independence**.
 
 ## Process, Patterns, and Q&A ##
 

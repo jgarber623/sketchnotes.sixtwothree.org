@@ -83,10 +83,52 @@ Mark Boulton, [A New Canon](http://vimeo.com/35719862):
 - `background-size: contain;` preserves original image's proportions and aspect ratio.
 - `background-size: cover;` preserves proportions and aspect ratio, but will be as large as possible to cover its container.
 
+### Video ###
+
+- Embedded video doesn't have intrinsic dimensions.
+- [Creating Intrinsic Ratios for Video](http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/)
+- Size `<object>` element to a reasonable size for small screens (say, 300px).
+- [FitVidsJS](http://fitvidsjs.com/): jQuery plugin for fluid width video embeds.
+- Craig Mod's A List Apart article, [A Simpler Page](http://www.alistapart.com/articles/a-simpler-page/).
+	- Demo: [craigmod.com/bibliotype/demo/](http://craigmod.com/bibliotype/demo/)
+- Filament Group's picturefill has optional HD/SD preferences.
+
 ## Media Queries ##
 
+- Historically, we've had media types in CSS for quite a long time: `<link rel="stylesheet" media="screen">`.
+- Media Queries = media type + query (feature and value): `@media screen and ( min-width: 800px )`
+- From the spec, these terms come up frequently:
+	- Display area: think of the browser's viewport.
+	- Rendering surface: think of the entire display/screen.
+- Shared properties: `@media screen and (max-device-width: 480px ), screen and min-width: 480px )`
+- Negating a query: `@media not screen and ( min-device-width: 480px )`
+- Chaining: `@media screen and ( min-device-width: 480px ) and ( orientation: landscape )`
+- CSS pixel vs device pixel: CSS pixels are an abstraction for designers.
+- Viewport `meta` element allows us to control/override the layout viewport.
+	- `target-densitydpi=high` implemented by Android.
+- [CSS Device Adaptation](http://dev.w3.org/csswg/css-device-adapt/): introduces `@viewport` to replace `meta` element.
+- Ethan's approach to the viewport `meta` element: `<meta name="viewport" content-"width=dievice-width, initial-scale=1.0">`
+- **Simplify your design before you suppress information.**
+
+> If this doesn't have value to our mobile users, then what value does it have to any of our users?
+
+- Multiple backgrounds were used with a single-pixel GIF to do borders between days in the weather module on The Boston Globe site.
+
+### Mobile-first Queries ###
+
+- Starting with mobile styles and building up from there is an additive process.
+- One way of developing a mobile-first approach:
+	- Start with building out the desktop view.
+	- Go to the top of the CSS and quarantine rules inline with `@media`.
+	- Consolidate queries at the bottom of the stylesheet.
+- Scoped queries: `@media screen and ( min-width: 480px ) and ( max-width: 600px )`
+- `em`-based Media Queries: Values are all based on the font size on the `html` element (Default is generally 16px).
+- There is no ideal set of breakpoints; hardware is evolving way too fast.
+- It's time to refocus on _content_ instead of _columns_. Move past breakpoints tied to specific devices and move to breakpoints that work for the content.
+- [The Goldilocks Approach](http://goldilocksapproach.com/) to Responsive Web Design
 
 ## Advanced Layout Trickery ##
+
 
 
 ## Process, Patterns, and Q&A ##

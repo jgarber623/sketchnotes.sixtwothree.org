@@ -143,4 +143,23 @@ Mark Boulton, [A New Canon](http://vimeo.com/35719862):
 
 ## Process, Patterns, and Q&A ##
 
+- [FitText](http://fittextjs.com/): jQuery plugin that makes font sizes flexible.
+- Wilto's [Dynamic Carousel](https://github.com/Wilto/Dynamic-Carousel)
 
+> All of your users are no-JavaScript users while they're downloading your JavaScript.
+
+- If the user has JavaScript, grab an "Additional photos" link's `href` attribute and suck in a page with the photos for the carousel.
+- Tom Maslen, BBC: [Cutting the mustard](http://blog.responsivenews.co.uk/post/18948466399/cutting-the-mustard)
+- [Testing for Dummies](http://mobiletestingfordummies.tumblr.com/): How to test responsive design across the mobile landscape by David Blooman.
+- In a media query, the keyword `only` filters out browsers that don't understand media queries.
+- Boston Globe's enhanced test: Does your browser understand media queries or not?
+- [LABjs](http://labjs.com/) and [yepnope](http://yepnopejs.com/) for loading in modules based on tests/conditions.
+- Boston Globe [throttledresize jQuery plugin](http://www.bostonglobe.com/js/lib/jquery.throttledresize.js)
+- A progressive enhancement bootstrapping utility from Filament Group: [enhance](https://github.com/filamentgroup/enhance/)
+
+> Is this content or an enhancement? If so, what's the upgrade path to it?
+
+- Idea: Quarantine web font usage above a certain screen size
+- Filament Group's [SouthStreet](https://github.com/filamentgroup/Southstreet) core tools and workflow for delivering rich, cross-device web applications. Ethan's favorites: [Enhance](https://github.com/filamentgroup/enhance), [eCSSential](https://github.com/filamentgroup/eCSSential), [AjaxInclude](https://github.com/filamentgroup/Ajax-Include-Pattern/), [AppendAround](https://github.com/filamentgroup/AppendAround), [Picturefill](https://github.com/scottjehl/picturefill/).
+
+> Look for opportunities to do no harm ...and make things pretty.

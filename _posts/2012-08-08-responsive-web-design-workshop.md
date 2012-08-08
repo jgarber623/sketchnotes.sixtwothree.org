@@ -106,7 +106,7 @@ Mark Boulton, [A New Canon](http://vimeo.com/35719862):
 - Viewport `meta` element allows us to control/override the layout viewport.
 	- `target-densitydpi=high` implemented by Android.
 - [CSS Device Adaptation](http://dev.w3.org/csswg/css-device-adapt/): introduces `@viewport` to replace `meta` element.
-- Ethan's approach to the viewport `meta` element: `<meta name="viewport" content-"width=dievice-width, initial-scale=1.0">`
+- Ethan's approach to the viewport `meta` element: `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - **Simplify your design before you suppress information.**
 
 > If this doesn't have value to our mobile users, then what value does it have to any of our users?

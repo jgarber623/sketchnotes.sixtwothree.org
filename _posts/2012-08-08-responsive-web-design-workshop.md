@@ -103,8 +103,7 @@ Mark Boulton, [A New Canon](http://vimeo.com/35719862):
 - Negating a query: `@media not screen and ( min-device-width: 480px )`
 - Chaining: `@media screen and ( min-device-width: 480px ) and ( orientation: landscape )`
 - CSS pixel vs device pixel: CSS pixels are an abstraction for designers.
-- Viewport `meta` element allows us to control/override the layout viewport.
-	- `target-densitydpi=high` implemented by Android.
+- Viewport `meta` element allows us to control/override the layout viewport. `target-densitydpi=high` implemented by Android.
 - [CSS Device Adaptation](http://dev.w3.org/csswg/css-device-adapt/): introduces `@viewport` to replace `meta` element.
 - Ethan's approach to the viewport `meta` element: `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - **Simplify your design before you suppress information.**

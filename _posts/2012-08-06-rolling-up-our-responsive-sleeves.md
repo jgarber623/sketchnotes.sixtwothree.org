@@ -9,7 +9,7 @@ Presented by [Ethan Marcotte](http://ethanmarcotte.com/).
 
 - [Henry Adams](http://en.wikipedia.org/wiki/Henry_Adams): "Chaos was the law of nature; Order was the dream of man."
 - [Samuel Johnson](http://en.wikipedia.org/wiki/Samuel_Johnson)
-- The Rise of the "[Digital Omnivore](http://en.wikipedia.org/wiki/Digital_Omnivore)"
+- The Rise of the [Digital Omnivore](http://en.wikipedia.org/wiki/Digital_Omnivore)
 - Garret Keizer: "Solve the parts, not the whole problem"
 
 ## Layout ##

@@ -48,7 +48,7 @@ Presented by [Luke Wroblewski](http://www.lukew.com/).
 - 75% abandonment rate in 2011 on online shopping carts. That's worse than in years prior.
 - Expedia removed the optional "Company" field from their checkout process and upped profits by $12 million overnight.
 - Remove optional fields in mobile. Hide irrelevent controls.
-- Phone number inputm mask: `(___) ___-____`
+- Phone number input mask: `(___) ___-____`
 - Ask for ZIP code, then show a list of potential city and state combinations.
 - `<input type="text" pattern="[0-9]">`
 - Look at how [Square](https://squareup.com/) handles entering credit card information for some pretty awesome input masks.

@@ -59,9 +59,9 @@ The government's plan:
 
 Adaptive content is flexible, so it can adapt to different screen sizes, and can be presented in different formats as appropriate for the device.
 
-- 43% of federal agencies to not use a CMS to publish online content.
+- 43% of federal agencies do not use a CMS to publish online content.
 - Tumblr's publishing information guides you to create chunks of content. This stands in contrast to Wordpress' lack of a structured experience. This approach provides much greater flexibility when presenting structured content on the front end.
-- **Create presentation-independent content.** When you are thinking about creating your content, you are not imagingin that it will live on one and only one platform.
+- **Create presentation-independent content.** When you are thinking about creating your content, you are not imagining that it will live on one and only one platform.
 - Treat content as a service. The government should be figuring out how to make its information available. Think how the government's release of GPS and weather data has fueled billion-dollar industries.
 - NPR's Open Content and APIs system is a wonderful example of how structured content and APIs can make publishing across a large variety of platforms work.
 

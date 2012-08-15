@@ -30,7 +30,7 @@ Presented by [Jessica Hische](http://jessicahische.is/).
 	- Low contrast
 	- Excellent spacing
 	- Number of weights/available optical sizes
-	- A true italic (no [sloped romans](https://twitter.com/jgarber/status/232510386912514048!)
+	- A true italic (no [sloped romans](https://twitter.com/jgarber/status/232510386912514048)!
 	- Real small caps
 - What feeling does the content communicate?
 - How experimental can you get with new tech? How many of your audience use outdated browsers and how much do you care to cater to them?

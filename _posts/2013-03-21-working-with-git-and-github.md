@@ -24,7 +24,7 @@ Presented by [Matt Yoho](http://mattyoho.com/).
 - `master` doesn't have to be the name of the primary timeline for a project. But... You'd be crazy pants to change that.
 - `git log --oneline` prints out a nicer-looking log.
 - `git diff HEAD master` in a branch will compare `HEAD` of that branch to what's in master.
-- Look in to Git Media Library for storing large assets like PSDs or Illustrator files.
+- [git-media library](https://github.com/schacon/git-media) for storing large assets like PSDs or Illustrator files.
 
 ### GitHub
 

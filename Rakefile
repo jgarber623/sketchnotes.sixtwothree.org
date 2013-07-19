@@ -16,7 +16,7 @@ namespace :post do
 			filepath = "_posts/#{STDIN.gets.chomp!}.md"
 		end
 
-		file = ERB.new( File.read( '_layouts/post.html.erb' ) ).result( binding )
+		file = ERB.new( File.read( '_templates/post.html.erb' ) ).result( binding )
 
 		File.open( filepath, 'w' ) do |f|
 			f.write( file )

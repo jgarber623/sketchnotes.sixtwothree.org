@@ -1,7 +1,7 @@
 ---
 categories: aneventapartdc
 date: 2012-08-06 16:34:48 -0400
-layout: application
+layout: post
 title: "Rolling Up Our Responsive Sleeves"
 ---
 

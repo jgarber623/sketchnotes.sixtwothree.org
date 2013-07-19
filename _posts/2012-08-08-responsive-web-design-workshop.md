@@ -1,7 +1,7 @@
 ---
 categories: aneventapartdc
 date: 2012-08-08 09:02:24 -0400
-layout: application
+layout: post
 title: "Responsive Web Design Workshop"
 ---
 

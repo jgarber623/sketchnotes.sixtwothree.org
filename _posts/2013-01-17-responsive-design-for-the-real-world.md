@@ -1,7 +1,7 @@
 ---
 categories: refreshdc
 date: 2013-01-17 19:00:00 -0500
-layout: application
+layout: post
 title: "Responsive Design for the Real World"
 ---
 

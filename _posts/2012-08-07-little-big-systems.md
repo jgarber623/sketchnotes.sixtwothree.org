@@ -1,7 +1,7 @@
 ---
 categories: aneventapartdc
 date: 2012-08-07 10:15:46 -0400
-layout: application
+layout: post
 title: "Little Big Systems"
 ---
 

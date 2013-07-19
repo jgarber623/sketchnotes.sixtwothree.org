@@ -1,7 +1,7 @@
 ---
 categories: aneventapartdc
 date: 2012-08-06 11:32:07 -0400
-layout: application
+layout: post
 title: "Upping Your Type Game"
 ---
 

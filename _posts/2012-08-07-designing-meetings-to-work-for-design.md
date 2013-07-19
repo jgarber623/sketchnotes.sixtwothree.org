@@ -1,7 +1,7 @@
 ---
 categories: aneventapartdc
 date: 2012-08-07 15:09:27 -0400
-layout: application
+layout: post
 title: "Designing Meetings to Work for Design"
 ---
 

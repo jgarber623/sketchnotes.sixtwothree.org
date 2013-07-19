@@ -1,7 +1,7 @@
 ---
 categories: aneventapartdc
 date: 2012-08-06 10:14:38 -0400
-layout: application
+layout: post
 title: "Creating UI Pattern Libraries"
 ---
 

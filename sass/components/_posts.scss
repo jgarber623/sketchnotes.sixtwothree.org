@@ -1,0 +1,25 @@
+.posts {
+	font-size: 1.2em;
+	list-style: none;
+	padding: 0 0 0 1em;
+
+	li {
+		position: relative;
+
+		&:before {
+			content: "»";
+			display: block;
+			left: -1em;
+			position: absolute;
+			top: 0;
+		}
+
+		+ li {
+			margin-top: 0.8em;
+		}
+	}
+
+	.category {
+		font-size: 0.8em;
+	}
+}

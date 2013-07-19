@@ -1,0 +1,46 @@
+* {
+	@include box-sizing(border-box);
+}
+
+html {
+	background: $grey url("../images/html.png") repeat 0 0;
+}
+
+body {
+	@extend %font-source-sans-pro;
+	color: $base;
+	margin: 0 auto;
+	max-width: 45em;
+	width: 100%
+}
+
+article,
+footer,
+header,
+main {
+	display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@extend %font-open-sans;
+}
+
+a {
+	color: $orange;
+	text-decoration: underline;
+	@include transition;
+
+	&:focus,
+	&:hover {
+		color: $orange--hover;
+	}
+}
+
+img {
+	max-width: 100%;
+}

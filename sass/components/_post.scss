@@ -1,0 +1,53 @@
+.post {
+
+}
+
+.post__header {
+	h1 {
+		margin-top: 0;
+	}
+
+	a {
+		color: $base;
+		text-decoration: none;
+
+		&:focus,
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+.post__content {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		border-bottom: 2px solid $black--translucent;
+		margin-top: 2em;
+		padding-bottom: 0.625em;
+	}
+
+	p,
+	li {
+		line-height: 1.6;
+	}
+
+	ol,
+	ul {
+		padding-left: 1.25em;
+	}
+
+	li + li {
+		margin-top: 0.8em;
+	}
+
+	blockquote {
+		@extend %font-open-sans;
+		background: $black--translucent;
+		@include border-radius;
+		padding: 0.1em 1.25em;
+	}
+}

@@ -1,0 +1,19 @@
+.global-header {
+	background: $black--translucent;
+	padding: 1.25em;
+
+	h1 {
+		font-size: 2.8em;
+		margin: 0;
+
+		a {
+			color: $base;
+			text-decoration: none;
+
+			&:focus,
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}

@@ -386,7 +386,7 @@ figure {
 		text-decoration: underline;
 	}
 
-    div[role=main] {
+    main[role=main] {
         padding: 20px 0;
     }
 

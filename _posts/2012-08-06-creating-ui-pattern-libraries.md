@@ -1,8 +1,8 @@
 ---
+categories: aneventapartdc
+date: 2012-08-06 10:14:38 -0400
 layout: application
 title: "Creating UI Pattern Libraries"
-date: 2012-08-06 10:14:38 -0400
-categories: aneventapartdc
 ---
 
 Presented by [Sarah Parmenter](http://www.sazzy.co.uk/).

@@ -1,8 +1,8 @@
 ---
+categories: aneventapartdc
+date: 2012-08-06 13:59:47 -0400
 layout: application
 title: "Mobile to the Future"
-date: 2012-08-06 13:59:47 -0400
-categories: aneventapartdc
 ---
 
 Presented by [Luke Wroblewski](http://www.lukew.com/).

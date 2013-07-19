@@ -1,8 +1,8 @@
 ---
+categories: aneventapartdc
+date: 2012-08-07 13:57:44 -0400
 layout: application
 title: "What Clients Don’t Know (and Why It’s Your Fault)"
-date: 2012-08-07 13:57:44 -0400
-categories: aneventapartdc
 ---
 
 Presented by [Mike Monteiro](http://mikemonteiro.com/).

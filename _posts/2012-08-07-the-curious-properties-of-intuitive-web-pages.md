@@ -1,8 +1,8 @@
 ---
+categories: aneventapartdc
+date: 2012-08-07 16:32:38 -0400
 layout: application
 title: "The Curious Properties of Intuitive Web Pages"
-date: 2012-08-07 16:32:38 -0400
-categories: aneventapartdc
 ---
 
 Presented by [Jared Spool](http://www.uie.com/).

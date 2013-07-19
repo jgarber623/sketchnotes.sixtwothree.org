@@ -1,8 +1,8 @@
 ---
+categories: aneventapartdc
+date: 2012-08-07 10:15:46 -0400
 layout: application
 title: "Little Big Systems"
-date: 2012-08-07 10:15:46 -0400
-categories: aneventapartdc
 ---
 
 Presented by [Erin Kissane](http://incisive.nu/).

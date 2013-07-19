@@ -1,8 +1,8 @@
 ---
+categories: aneventapartdc
+date: 2012-08-06 11:32:07 -0400
 layout: application
 title: "Upping Your Type Game"
-date: 2012-08-06 11:32:07 -0400
-categories: aneventapartdc
 ---
 
 Presented by [Jessica Hische](http://jessicahische.is/).
@@ -20,7 +20,7 @@ Presented by [Jessica Hische](http://jessicahische.is/).
 - [Hamilton Wood Type & Printing Museum](http://woodtype.org/)
 - [Phototypesetting](http://en.wikipedia.org/wiki/Phototypesetting) killed the [linotype](http://en.wikipedia.org/wiki/Linotype_machine).
 - Line height = leading + height of the type.
- 
+
 ## Choosing Typefaces ##
 
 - Look to your content to help you make decisions about type.

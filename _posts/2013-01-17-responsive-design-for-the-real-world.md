@@ -1,8 +1,8 @@
 ---
+categories: refreshdc
+date: 2013-01-17 19:00:00 -0500
 layout: application
 title: "Responsive Design for the Real World"
-date: 2013-01-17 19:00:00 -0500
-categories: refreshdc
 ---
 
 Presented by [Clarissa Peterson](http://www.clarissapeterson.com/).
@@ -68,7 +68,7 @@ Presented by [Clarissa Peterson](http://www.clarissapeterson.com/).
 		}
 	}
 
-- `@media` Bubbling: Embed media queries in selectors 
+- `@media` Bubbling: Embed media queries in selectors
 
 
 ## Responsive Images

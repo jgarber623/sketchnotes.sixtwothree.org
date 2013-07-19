@@ -1,8 +1,8 @@
 ---
+categories: refreshdc
+date: 2013-03-21 19:13:45 -0400
 layout: application
 title: "Working with Git and GitHub"
-date: 2013-03-21 19:13:45 -0400
-categories: refreshdc
 ---
 
 Presented by [Matt Yoho](http://mattyoho.com/).

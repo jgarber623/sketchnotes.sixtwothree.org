@@ -1,8 +1,8 @@
 ---
+categories: aneventapartdc
+date: 2012-08-07 08:58:19 -0400
 layout: application
 title: "Uncle Sam Wants You (To Optimize Your Content for Mobile)"
-date: 2012-08-07 08:58:19 -0400
-categories: aneventapartdc
 ---
 
 Presented by [Karen McGrane](http://karenmcgrane.com/).

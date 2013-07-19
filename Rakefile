@@ -1,59 +1,44 @@
 require 'rake'
 require 'erb'
 
+task :default => 'site:create'
+
 namespace :post do
 	desc 'Create a new post'
 	task :create do
 		puts 'What would you like to title your post?'
 		title = STDIN.gets.chomp!
-		timestamp = Time.now.to_s
 
-		filename = Time.now.strftime( '%F' ) + '-' + title.downcase.gsub( /[^0-9A-Za-z]/i, '-' ).gsub( /-+/, '-' ).chomp( '-' )
+		filename = Time.now.strftime('%F') + '-' + title.downcase.gsub(/[^0-9A-Za-z]/i, '-').gsub(/-+/, '-').chomp('-')
 		filepath = "_posts/#{filename}.md"
 
-		if ( File.exists?( filepath ) )
+		if File.exists?( filepath )
 			puts 'That file already exists! Please enter a unique file name.'
 			filepath = "_posts/#{STDIN.gets.chomp!}.md"
 		end
 
-		file = ERB.new( File.read( '_templates/post.html.erb' ) ).result( binding )
-
-		File.open( filepath, 'w' ) do |f|
-			f.write( file )
+		File.open(filepath, 'w') do |f|
+			f.write ERB.new(File.read('_templates/post.html.erb')).result(binding)
 		end
 
 		system %Q{open #{filepath}}
 	end
-
-	desc 'Delete all posts'
-	task :delete_all do
-		puts 'WARNING: This will delete all of your posts. Are you sure? (Anything other than "yes" will cancel)'
-
-		case STDIN.gets.chomp
-			when 'yes'
-				puts 'Deleting all of your posts...'
-				system %Q{rm -rf _posts/*}
-				puts 'All posts were deleted.'
-			else
-				puts 'Leaving your posts alone.'
-		end
-	end
 end
-
-desc 'Create a new post (shorthand)'
-task :post => 'post:create'
 
 namespace :site do
-	desc 'Create site'
+	desc 'Build site to _siet folder'
 	task :create do
-		system %Q{jekyll --pygments --safe}
+	  puts 'Building site to _site folder...'
+	  system %Q{bundle exec compass compile}
+	  system %Q{bundle exec jekyll build}
 	end
 
-	desc 'Delete site'
-	task :delete do
-		system %Q{rm -rf _site/*}
+	desc 'Remove _site folder'
+	task :destroy do
+	  puts 'Removing _site folder...'
+	  system %Q{rm -rf _site}
 	end
 end
 
-desc 'Build site (shorthand)'
+task :post => 'post:create'
 task :site => 'site:create'

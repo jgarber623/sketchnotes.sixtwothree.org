@@ -16,25 +16,7 @@
 		<h1><a href="/">{{ site.name }}</a></h1>
 	</header>
 	<main role="main">
-		{% if page.is_index %}
-			<ul class="posts-list">
-				{% for post in site.posts %}
-					<li><a href="{{ post.url }}">{{ post.title }}</a> <span class="category">#{{ post.categories }}</span></li>
-				{% endfor %}
-			</ul>
-		{% else %}
-			{% assign post = page %}
-
-			<article class="hentry">
-				<header>
-					<h1 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
-				</header>
-
-				<div class="entry-content">
-					{{ content}}
-				</div>
-			</article>
-		{% endif %}
+		{{ content }}
 	</main>
 	<footer role="contentinfo">
 		<p>Compiled by <a href="http://sixtwothree.org">Jason Garber</a>. <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" rel="license">Some rights reserved</a>.</p>

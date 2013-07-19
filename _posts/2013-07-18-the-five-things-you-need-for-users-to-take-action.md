@@ -1,5 +1,5 @@
 ---
-categories: resfreshdc
+categories: refreshdc
 date: 2013-07-18 19:00:00 -0400
 layout: post
 title: "The Five Things You Need for Users to Take Action"

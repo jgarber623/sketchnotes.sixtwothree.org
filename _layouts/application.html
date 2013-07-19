@@ -15,7 +15,7 @@
 	<header role="banner">
 		<h1><a href="/">{{ site.name }}</a></h1>
 	</header>
-	<div role="main">
+	<main role="main">
 		{% if page.is_index %}
 			<ul class="posts-list">
 				{% for post in site.posts %}
@@ -25,30 +25,33 @@
 		{% else %}
 			{% assign post = page %}
 
-			<article>
+			<article class="hentry">
 				<header>
-					<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+					<h1 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h1>
 				</header>
 
-				{{ content}}
-
+				<div class="entry-content">
+					{{ content}}
+				</div>
 			</article>
 		{% endif %}
-	</div>
+	</main>
 	<footer role="contentinfo">
 		<p>Compiled by <a href="http://sixtwothree.org">Jason Garber</a>. <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US" rel="license">Some rights reserved</a>.</p>
 	</footer>
 
 	<script>
-		var _gaq = [['_setAccount','UA-5230764-4'],['_trackPageview']];
-		(function( d, t ) {
-			var g = d.createElement( t ),
-				s = d.getElementsByTagName( t )[0];
+		var _gaq = [['_setAccount', 'UA-5230764-4'], ['_trackPageview']];
 
-			g.src = ( 'https:' == location.protocol ? '//ssl' : '//www' ) + '.google-analytics.com/ga.js';
-			s.parentNode.insertBefore( g, s );
-		}( document, 'script' ) );
-    </script>
+		(function(d, t) {
+			var g = d.createElement(t),
+				s = d.getElementsByTagName(t)[0];
+
+			g.src = '//www.google-analytics.com/ga.js';
+
+			s.parentNode.insertBefore(g, s);
+		}(document, 'script'));
+	</script>
 
 </body>
 </html>

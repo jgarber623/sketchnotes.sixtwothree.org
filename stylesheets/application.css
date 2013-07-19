@@ -16,6 +16,7 @@ figure,
 footer,
 header,
 hgroup,
+main,
 nav,
 section,
 summary {
@@ -464,7 +465,7 @@ figure {
     article header a:hover {
         text-decoration: underline;
     }
-    
+
     article p,
     article li {
         line-height: 1.5;
@@ -474,7 +475,7 @@ figure {
     article ol {
         padding-left: 20px;
     }
-    
+
     article blockquote {
         background: rgba( 0, 0, 0, 0.3 );
         border-radius: 3px;

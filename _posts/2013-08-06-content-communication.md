@@ -36,10 +36,10 @@ Presented by [Kristina Halvorson](http://braintraffic.com/).
 > We should care less about specific methods and more about people on our teams. — [Pawel Brodzinski](http://brodzinski.com/2010/03/good-agile-wrong-waterfall.html)
 
 - [The Raci Model](http://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
-	- Who is *responsible* for a task?
-	- Who is *accountable* for the work's success
-	- Who must be *consulted* before work can be signed off on?
-	- Who must be kept *informed* along the way?
+	- Who is **responsible** for a task?
+	- Who is **accountable** for the work's success
+	- Who must be **consulted** before work can be signed off on?
+	- Who must be kept **informed** along the way?
 
 > Activity does not always equal productivity.
 

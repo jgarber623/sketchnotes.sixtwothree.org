@@ -12,7 +12,7 @@ Presented by [Jason Grigsby](http://userfirstweb.com/).
 
 > 88% of tablet owners and 86% of smartphone owners use their device while watching TV.
 
-> Xbox 360 […] is used more for watching movies and TV shows […] than playing video games online. — LA Times, March 2012
+> Xbox 360 \[…\] is used more for watching movies and TV shows \[…\] than playing video games online. — LA Times, March 2012
 
 - [Xbox SmartGlass](http://www.xbox.com/en-US/smartglass) is a digital companion to television content (e.g. a Game of Thrones map to follow along with the onscreen action).
 - 2013 model televisions compare incredibly well to an iPhone 4S running iOS6 in the [HTML5 Test](http://html5test.com/).

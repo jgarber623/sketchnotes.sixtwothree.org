@@ -10,7 +10,7 @@ title: The Map & The Territory
 
 Presented by [Ethan Marcotte](http://ethanmarcotte.com/).
 
-- [Editorially](https://editorially.com/): Aa completely responsive web application for social writing, editing, and publishing content on the web.
+- [Editorially](https://editorially.com/): A completely responsive web application for social writing, editing, and publishing content on the web.
 - Build a grid system off the needs of the content.
 - Use `@media` to defend your content.
 

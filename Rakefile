@@ -8,6 +8,13 @@ namespace :post do
 	task :create do
 		puts 'What would you like to title your post?'
 		title = STDIN.gets.chomp!
+
+		puts 'What is the speaker\'s name?'
+		speaker_name = STDIN.gets.chomp!
+
+		puts 'What is the speaker\'s website? (include http://)'
+		speaker_url = STDIN.gets.chomp!
+
 		pubdate = Time.now
 
 		filename = pubdate.strftime('%F') + '-' + title.downcase.gsub(/[^0-9A-Za-z]/i, '-').gsub(/-+/, '-').chomp('-')
@@ -27,7 +34,7 @@ namespace :post do
 end
 
 namespace :site do
-	desc 'Build site to _siet folder'
+	desc 'Build site to _site folder'
 	task :create do
 	  puts 'Building site to _site folder...'
 	  system %Q{bundle exec compass compile}

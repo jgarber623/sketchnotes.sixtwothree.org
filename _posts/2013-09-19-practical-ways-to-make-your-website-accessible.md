@@ -10,6 +10,9 @@ title: Practical Ways to Make Your Website Accessible
 
 Presented by [John F. Croston III](http://jfciii.com/). John organizes [Accessibility Camp DC](http://accessibilitycampdc.org/).
 
+
+## Standards and Tools
+
 - Web Content Accessibility Guidelines (WCAG) 2.0: international standard for accessibility on the Web.
 - [WAVE](http://wave.webaim.org/) is an easy-to-use tool for displaying accessibility problems on your website.
 - [Functional Accessibility Evaluator](http://fae.cita.uiuc.edu/) generates detailed reports on the accessibility of your website.

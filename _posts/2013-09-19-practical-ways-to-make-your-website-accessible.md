@@ -70,8 +70,10 @@ Presented by [John F. Croston III](http://jfciii.com/). John organizes [Accessib
 - Add a fragment identifier in the `action` attribute of a `<form>` element to jump a user (and a screen reader) down to the search results. This way the user won't have to use the skip navigation links.
 - `aria-required="true"` on a required `<input>` element.
 
-	<label for="first-name"><em aria-hidde="true">(Required)</em> First Name</label>
-	<input type="text" id="first-name" aria-required="true">
+```
+<label for="first-name"><em aria-hidde="true">(Required)</em> First Name</label>
+<input type="text" id="first-name" aria-required="true">
+```
 
 
 ## ARIA Landmark Roles

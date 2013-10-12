@@ -1,5 +1,5 @@
 ---
-categories:
+categories: convergerva
 date: 2013-10-12 13:29:04 -0400
 layout: post
 speakers:

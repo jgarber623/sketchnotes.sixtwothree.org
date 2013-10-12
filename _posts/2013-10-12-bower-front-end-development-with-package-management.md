@@ -5,7 +5,7 @@ layout: post
 speakers:
   - name: David DeSandro
     url: http://desandro.com/
-title: Bower: Front-End Development with Package Management
+title: 'Bower: Front-End Development with Package Management'
 ---
 
 Presented by [David DeSandro](http://desandro.com/).

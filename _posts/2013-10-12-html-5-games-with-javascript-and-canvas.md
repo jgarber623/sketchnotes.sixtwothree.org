@@ -5,7 +5,7 @@ layout: post
 speakers:
   - name: Dan Tello
     url: http://viget.com/about/team/dtello
-title: HTML 5 Games with JavaScript and Canvas
+title: HTML5 Games with JavaScript and Canvas
 ---
 
 Presented by [Dan Tello](http://viget.com/about/team/dtello).

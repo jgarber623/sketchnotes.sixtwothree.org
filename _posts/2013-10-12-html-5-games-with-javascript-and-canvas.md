@@ -10,6 +10,8 @@ title: HTML5 Games with JavaScript and Canvas
 
 Presented by [Dan Tello](http://viget.com/about/team/dtello).
 
+![Dan Tello presenting at ConvergeRVA](http://distilleryimage5.ak.instagram.com/233e79b2335011e38c1322000a1fb036_8.jpg)
+
 - During the 2012 Olympics, PUMA had to remove references to Usain Bolt as they weren't an official sponsor of the Olympics.
 
 

@@ -54,4 +54,4 @@ Presented by [Dan Tello](http://viget.com/about/team/dtello).
 	- Create, extend, and re-use classes.
 	- Always Be Refactoring
 	- Get code reviews!
-- [Class.js](https://github.com/rauschma/class-js) adds standard object inheritance in JavaScript.
+- [Klass](https://github.com/ded/klass): An expressive, cross platform JavaScript Class provider with a classical interface to prototypal inheritance.

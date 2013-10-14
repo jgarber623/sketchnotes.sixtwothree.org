@@ -15,7 +15,7 @@ Presented by [Ben Callahan](http://bencallahan.com/).
 - The fixed width consensual hallucination has really constricted us.
 - The linear workflow held together for quite a while. Then responsive web design came along.
 
-> Responsive web design is about a whole lot more than layout
+> Responsive web design is about a whole lot more than layout.
 
 
 ## "1 Deliverable" Workflow

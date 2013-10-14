@@ -32,16 +32,16 @@ Presented by [Ben Callahan](http://bencallahan.com/).
 - **[Style Tiles](http://styletil.es):** "mood boards for the web", used to define a visual language for the web.
 - **Style Prototypes:** Taking the idea of a style tile and building it quickly in the browser. Very simple, but responsive. Using browser-based techniques can quickly bring up the conversation of browser support with a client.
 
-> Use tools you are comfortable with to establisht the aesthetic.
+> Use tools you are comfortable with to establish the aesthetic.
 
 ### Solve the Problem
 
 - **Static Design Tools:** Photoshop, Sketch, pencil and paper
 - **Responsive Design Tools:** [Adobe Edge Reflow](http://html.adobe.com/edge/reflow/), [Froont](http://froont.com/), [Macaw](http://macaw.co/)
 - **HTML/CSS**
-- Brad Frost's [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/) quotes Stephen Hay:
+- Brad Frost's [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 
-> We're not designing pages, we're designing systems of components
+> We're not designing pages, we're designing systems of components — Stephen Hay
 
 > You best solve problems using tools you are fluent with.
 
@@ -58,19 +58,19 @@ Presented by [Ben Callahan](http://bencallahan.com/).
 
 - Mentally switching from solving the problem to refining the solution is when you should switch to working in the browser.
 
-> Efficiency is key when you're refining a design solution
+> Efficiency is key when you're refining a design solution.
 
 
 ## Conclusion
 
 - Establishing the problem: Comfort
-- Solving the problem: Flucency
+- Solving the problem: Fluency
 - Refining the solution: Efficiency
 
 > Group improvisation is a challenge. Aside from the weighty technical problem of collective coherent thinking, there is the very human, even social need for sympathy from all members to bend for the common result. — Bill Evans on [_Kind of Blue_](http://www.billevanswebpages.com/kindblue.html)
 
 > If you can't say no, it's not collaboration.
 
-- Creat guidelines instead of rigid process. The amount of process required is inversely proportional to the skill and experience of your team.
+- Create guidelines instead of rigid process. The amount of process required is inversely proportional to the skill and experience of your team.
 
 > We could create a rigid process or we could chill out and develop our people. Invest in people over process.

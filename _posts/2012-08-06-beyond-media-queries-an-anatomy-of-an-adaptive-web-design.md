@@ -2,7 +2,7 @@
 categories: aneventapartdc
 date: 2012-08-06 15:16:30 -0400
 layout: post
-title: "Beyond Media Queries: An Anatomy of an Adaptive Web Design"
+title: 'Beyond Media Queries: An Anatomy of an Adaptive Web Design'
 ---
 
 Presented by [Brad Frost](http://bradfrostweb.com/).

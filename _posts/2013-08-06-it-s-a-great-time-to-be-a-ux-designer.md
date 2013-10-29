@@ -2,9 +2,6 @@
 categories: aneventapartdc
 date: 2013-08-06 12:01:38 -0400
 layout: post
-speakers:
-  - name: Jared Spool
-    url: http://www.uie.com/
 title: It’s a Great Time To Be a UX Designer
 ---
 

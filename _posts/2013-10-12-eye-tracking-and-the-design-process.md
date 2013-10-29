@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 09:49:51 -0400
 layout: post
-speakers:
-  - name: JD Graffam
-    url: http://simplefocus.com/
 title: Eye Tracking and the Design Process
 ---
 

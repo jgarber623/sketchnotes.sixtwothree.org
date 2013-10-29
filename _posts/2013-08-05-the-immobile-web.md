@@ -2,9 +2,6 @@
 categories: aneventapartdc
 date: 2013-08-05 15:04:33 -0400
 layout: post
-speakers:
-  - name: Jason Grigsby
-    url: http://userfirstweb.com/
 title: The Immobile Web
 ---
 

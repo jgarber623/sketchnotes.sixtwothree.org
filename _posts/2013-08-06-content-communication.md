@@ -2,9 +2,6 @@
 categories: aneventapartdc
 date: 2013-08-06 12:00:22 -0400
 layout: post
-speakers:
-  - name: Kristina Halvorson
-    url: http://braintraffic.com/
 title: Content/Communication
 ---
 

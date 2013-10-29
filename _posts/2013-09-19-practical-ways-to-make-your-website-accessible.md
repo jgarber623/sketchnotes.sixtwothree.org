@@ -2,9 +2,6 @@
 categories: refreshdc
 date: 2013-09-19 19:00:07 -0400
 layout: post
-speakers:
-  - name: John F. Croston III
-    url: http://jfciii.com/
 title: Practical Ways to Make Your Website Accessible
 ---
 

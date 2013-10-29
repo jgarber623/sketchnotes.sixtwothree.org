@@ -2,7 +2,7 @@
 categories: aneventapartdc
 date: 2012-08-06 11:32:07 -0400
 layout: post
-title: "Upping Your Type Game"
+title: Upping Your Type Game
 ---
 
 Presented by [Jessica Hische](http://jessicahische.is/).

@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 13:29:04 -0400
 layout: post
-speakers:
-  - name: Bryce Bigger
-    url: http://thebiggerdesign.com/
 title: The State of Being a Maker
 ---
 

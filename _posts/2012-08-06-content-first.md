@@ -2,7 +2,7 @@
 categories: aneventapartdc
 date: 2012-08-06 09:06:38 -0400
 layout: post
-title: "Content First!"
+title: Content First!
 ---
 
 Presented by [Jeffrey Zeldman](http://www.zeldman.com/).

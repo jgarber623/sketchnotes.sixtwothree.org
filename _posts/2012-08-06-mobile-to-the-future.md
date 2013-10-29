@@ -2,7 +2,7 @@
 categories: aneventapartdc
 date: 2012-08-06 13:59:47 -0400
 layout: post
-title: "Mobile to the Future"
+title: Mobile to the Future
 ---
 
 Presented by [Luke Wroblewski](http://www.lukew.com/).

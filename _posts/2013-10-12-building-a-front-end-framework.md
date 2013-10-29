@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 10:31:42 -0400
 layout: post
-speakers:
-  - name: Ghaida Zahran
-    url: http://ghaidazahran.com/
 title: Building A Front-End Framework
 ---
 

@@ -2,9 +2,6 @@
 categories: aneventapartdc
 date: 2013-08-05 13:53:16 -0400
 layout: post
-speakers:
-  - name: Luke Wroblewski
-    url: http://www.lukew.com/
 title: It’s a Write/Read (Mobile) Web
 ---
 

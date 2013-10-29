@@ -2,9 +2,6 @@
 categories: aneventapartdc
 date: 2013-08-06 11:59:26 -0400
 layout: post
-speakers:
-  - name: Ethan Marcotte
-    url: http://ethanmarcotte.com/
 title: The Map & The Territory
 ---
 

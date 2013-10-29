@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 11:03:52 -0400
 layout: post
-speakers:
-  - name: Dan Tello
-    url: http://viget.com/about/team/dtello
 title: HTML5 Games with JavaScript and Canvas
 ---
 

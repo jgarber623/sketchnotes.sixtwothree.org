@@ -2,7 +2,7 @@
 categories: refreshdc
 date: 2013-03-21 19:13:45 -0400
 layout: post
-title: "Working with Git and GitHub"
+title: Working with Git and GitHub
 ---
 
 Presented by [Matt Yoho](http://mattyoho.com/).

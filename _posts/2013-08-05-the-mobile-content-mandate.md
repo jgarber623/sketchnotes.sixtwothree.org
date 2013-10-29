@@ -2,9 +2,6 @@
 categories: aneventapartdc
 date: 2013-08-05 16:16:52 -0400
 layout: post
-speakers:
-  - name: Karen McGrane
-    url: http://karenmcgrane.com/
 title: The Mobile Content Mandate
 ---
 

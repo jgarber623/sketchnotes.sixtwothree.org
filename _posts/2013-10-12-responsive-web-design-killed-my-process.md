@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 08:51:44 -0400
 layout: post
-speakers:
-  - name: Ben Callahan
-    url: http://bencallahan.com/
 title: Responsive Web Design Killed My Process
 ---
 

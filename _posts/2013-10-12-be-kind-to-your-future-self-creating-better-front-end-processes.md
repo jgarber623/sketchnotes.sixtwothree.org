@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 15:59:37 -0400
 layout: post
-speakers:
-  - name: Patrick Fulton
-    url: http://www.patrickfulton.net/
 title: 'Be Kind To Your Future Self: Creating Better Front-End Processes'
 ---
 

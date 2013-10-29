@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 12:53:18 -0400
 layout: post
-speakers:
-  - name: Jed Schneider
-    url: https://twitter.com/jedschneider
 title: 'Git: The Story Right'
 ---
 

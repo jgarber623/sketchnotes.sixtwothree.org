@@ -2,9 +2,6 @@
 categories: aneventapartdc
 date: 2013-08-05 09:00:37 -0400
 layout: post
-speakers:
-  - name: Jeffrey Zeldman
-    url: http://www.zeldman.com/
 title: Ten Commandments of Web Design
 ---
 

@@ -2,7 +2,7 @@
 categories: refreshdc
 date: 2013-07-18 19:00:00 -0400
 layout: post
-title: "The Five Things You Need for Users to Take Action"
+title: The Five Things You Need for Users to Take Action
 ---
 
 Presented by [Steve Wendel](http://www.hellowallet.com/), author of [Designing for Behavior Change](http://bit.ly/changebehavior) and organizer of [Action Design DC](http://www.meetup.com/Action-Design-DC/).

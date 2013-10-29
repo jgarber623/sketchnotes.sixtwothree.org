@@ -2,9 +2,6 @@
 categories: convergerva
 date: 2013-10-12 15:18:17 -0400
 layout: post
-speakers:
-  - name: David DeSandro
-    url: http://desandro.com/
 title: 'Bower: Front-End Development with Package Management'
 ---
 

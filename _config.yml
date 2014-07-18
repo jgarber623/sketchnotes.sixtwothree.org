@@ -1,3 +1,7 @@
 exclude: [CNAME, config, Gemfile, Gemfile.lock, Procfile, Rakefile, sass]
 name: Sketchnotes
 permalink: /:categories/:title
+
+markdown: redcarpet
+redcarpet:
+  extensions: ['smart', 'strikethrough']

@@ -1,4 +1,10 @@
-* {
+@-ms-viewport{
+	width: device-width;
+}
+
+*,
+*:before,
+*:after {
 	@include box-sizing(border-box);
 }
 
@@ -31,6 +37,7 @@ h6 {
 }
 
 a {
+	background: none;
 	color: $orange;
 	text-decoration: underline;
 
@@ -47,6 +54,7 @@ a {
 
 img {
 	display: block;
+	-ms-interpolation-mode: bicubic;
 	margin: 0 auto;
 	max-width: 100%;
 }

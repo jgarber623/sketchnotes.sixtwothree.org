@@ -1,4 +1,4 @@
-exclude: [CNAME, config, Gemfile, Gemfile.lock, Procfile, Rakefile, sass]
+exclude: [CNAME, config, Gemfile, Gemfile.lock, lib, Procfile, Rakefile, sass]
 name: Sketchnotes
 permalink: /:categories/:title
 

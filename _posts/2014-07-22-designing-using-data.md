@@ -73,7 +73,6 @@ Examples of vanity metrics:
 
 > We need to appear to remember way more than we actually do.
 
-
 - [Crazy Egg](http://www.crazyegg.com/) can create heatmaps for where on your page users are clicking.
 - [Optimizely](https://www.optimizely.com/) for user A/B testing.
 - Overlay numbers on a wireframe to indicate content hierarchy which will inform reordering in a responsive design.

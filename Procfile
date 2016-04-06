@@ -1,2 +1,1 @@
-jekyll: bundle exec jekyll serve --watch --trace
-compass: bundle exec compass watch
+jekyll: bundle exec jekyll serve --trace

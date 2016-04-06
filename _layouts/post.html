@@ -2,12 +2,14 @@
 layout: application
 ---
 
-<article class="post hentry">
+<article class="post h-entry">
 	<header class="post__header">
-		<h1 class="entry-title"><a href="{{ page.permalink }}" rel="bookmark">{{ page.title }}</a></h1>
+		<h1>
+			<a href="{{ page.permalink }}" class="p-name u-url">{{ page.title }}</a>
+		</h1>
 	</header>
 
-	<div class="post__content entry-content">
+	<div class="post__content e-content">
 		{{ content }}
 	</div>
 </article>

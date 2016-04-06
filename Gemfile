@@ -1,12 +1,10 @@
-ruby '2.0.0'
-source 'https://rubygems.org'
+ruby '2.3.0'
 
-gem 'rake'
-gem 'foreman'
+source 'https://rubygems.org' do
+  gem 'github-pages', '~> 68'
 
-gem 'github-pages'
-
-gem 'rb-fsevent'
-gem 'sass'
-gem 'sass-globbing'
-gem 'compass', '~> 1.0.0.alpha'
+  group :development do
+    gem 'rake', '~> 11.1'
+    gem 'foreman', '~> 0.78.0'
+  end
+end

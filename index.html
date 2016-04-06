@@ -2,8 +2,11 @@
 layout: application
 ---
 
-<ul class="posts hfeed">
+<ul class="posts h-feed">
 	{% for post in site.posts %}
-		<li class="hentry"><a href="{{ post.url }}" class="entry-title" rel="bookmark">{{ post.title }}</a> <span class="category">#{{ post.categories }}</span></li>
+		<li class="h-entry">
+			<a href="{{ post.url }}" class="p-name u-url">{{ post.title }}</a>
+			<span class="p-category">#{{ post.categories }}</span>
+		</li>
 	{% endfor %}
 </ul>

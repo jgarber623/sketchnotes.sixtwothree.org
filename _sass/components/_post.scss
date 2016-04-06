@@ -43,7 +43,7 @@
 	blockquote {
 		@extend %font-open-sans;
 		background: $black--translucent;
-		@include border-radius;
+		border-radius: 0.25em;
 		padding: 0.1em 1.25em;
 	}
 }

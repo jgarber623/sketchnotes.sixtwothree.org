@@ -3,10 +3,10 @@ layout: application
 ---
 
 <ul class="posts h-feed">
-	{% for post in site.posts %}
-		<li class="h-entry">
-			<a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url">{{ post.title }}</a>
-			<span class="p-category">#{{ post.categories }}</span>
-		</li>
-	{% endfor %}
+  {% for post in site.posts %}
+    <li class="h-entry">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="p-name u-url">{{ post.title }}</a>
+      <span class="p-category">#{{ post.categories }}</span>
+    </li>
+  {% endfor %}
 </ul>

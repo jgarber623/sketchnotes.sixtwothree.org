@@ -1,9 +1,5 @@
-ruby '2.3.3'
+ruby '2.4.2'
 
-source 'https://rubygems.org' do
-  gem 'github-pages'
+source 'https://rubygems.org'
 
-  group :development do
-    gem 'rake', '~> 11.3'
-  end
-end
+gem 'github-pages', '~> 185', group: :jekyll_plugins

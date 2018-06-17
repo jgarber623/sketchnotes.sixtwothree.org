@@ -1,6 +1,8 @@
-@-ms-viewport{
+// sass-lint:disable no-vendor-prefixes
+@-ms-viewport {
   width: device-width;
 }
+// sass-lint:enable no-vendor-prefixes
 
 *,
 *::before,
@@ -18,7 +20,7 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   margin: 0 auto;
   max-width: 45em;
-  width: 100%
+  width: 100%;
 }
 
 h1,
@@ -41,9 +43,11 @@ a {
   }
 }
 
+// sass-lint:disable no-vendor-prefixes
 img {
   -ms-interpolation-mode: bicubic;
   display: block;
   margin: 0 auto;
   max-width: 100%;
 }
+// sass-lint:enable no-vendor-prefixes

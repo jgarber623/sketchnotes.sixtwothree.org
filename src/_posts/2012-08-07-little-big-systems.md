@@ -22,11 +22,11 @@ There's tremendous value in focusing on workmanship and mastering one's craft. S
 
 The five principles of craft:
 
-1. [Learn Your Artifact](#learn_your_artifact)
-2. [Make For Makers](#make_for_makers)
-3. [Take The Time](#take_the_time)
-4. [Ship Small, But Excellent](#ship_small_but_excellent)
-5. [Seek Deep Knowledge](#seek_deep_knowledge)
+1. [Learn Your Artifact](#learn-your-artifact)
+2. [Make For Makers](#make-for-makers)
+3. [Take The Time](#take-the-time)
+4. [Ship Small, But Excellent](#ship-small-but-excellent)
+5. [Seek Deep Knowledge](#seek-deep-knowledge)
 
 ### Learn Your Artifact ###
 

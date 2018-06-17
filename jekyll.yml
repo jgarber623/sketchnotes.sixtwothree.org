@@ -1,0 +1,21 @@
+source: ./src
+destination: ./public
+
+include:
+  - _headers
+  - _redirects
+
+host: 0.0.0.0
+
+permalink: /:categories/:title
+
+assets:
+  defaults:
+    css:
+      integrity: true
+    img:
+      integrity: false
+    js:
+      integrity: true
+  sources:
+    - _assets/stylesheets

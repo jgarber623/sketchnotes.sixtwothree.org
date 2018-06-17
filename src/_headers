@@ -1,0 +1,13 @@
+/*
+  Cache-Control: no-cache
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+/
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+
+/assets/*
+  Cache-Control: max-age=31536000, immutable
+
+/assets/*.css
+  X-Content-Type-Options: nosniff

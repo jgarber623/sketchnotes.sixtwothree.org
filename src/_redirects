@@ -1,0 +1,3 @@
+/aneventapartdc/:slug    /aneventapartdc/:slug.html    200!
+/convergerva/:slug       /convergerva/:slug.html       200!
+/refreshdc/:slug         /refreshdc/:slug.html         200!

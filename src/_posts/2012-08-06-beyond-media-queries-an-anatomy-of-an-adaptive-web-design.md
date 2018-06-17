@@ -13,7 +13,7 @@ Presented by [Brad Frost](http://bradfrostweb.com/).
 - [Flexibility](#flexibility)
 - [Performance](#performance)
 - [Enhancement](#enhancement)
-- [Future-Friendly](#futurefriendly)
+- [Future-Friendly](#future-friendly)
 
 ### Ubiquity ###
 

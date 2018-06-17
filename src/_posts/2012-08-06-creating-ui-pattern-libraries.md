@@ -20,10 +20,10 @@ Presented by [Sarah Parmenter](http://www.sazzy.co.uk/).
 1. [Structure](#structure)
 2. [Content](#content)
 3. [Typography](#typography)
-4. [Mood board](#mood_board)
-5. [UI Pattern Library](#ui_pattern_library)
-6. [Asset Management](#asset_management)
-7. [Native consideration](#native_consideration)
+4. [Mood board](#mood-board)
+5. [UI Pattern Library](#ui-pattern-library)
+6. [Asset Management](#asset-management)
+7. [Native considerations](#native-considerations)
 
 ### Structure ###
 

@@ -1,0 +1,21 @@
+dist: trusty
+sudo: false
+language: ruby
+cache:
+  bundler: true
+  directories:
+    - node_modules
+rvm:
+  - 2.4.3
+install:
+  - bundle install --path vendor/bundle
+  - npm install
+before_script:
+  - npm run build
+script:
+  - npm test
+notifications:
+  email: false
+  slack:
+    rooms:
+      secure: KFLvhriuRo9ckcXmsVciQ6pyPsVUj4j6R8RgztmK/EQ5fOawjih97qBTMBKhw9pRLl0ottTueT+fk4u6l0DCPOWiDrrVtnRwJV5khfL76eNVaYxx/rTDqZ71OGluvS0B+fhPWRuLRztLaOvTAp8WBKevrR8IsPp7ozTAy5JAfLVYk5HQDJpFXupcrUKCRUBmgEEvHe6b500yNpnUc02/FgGv8YpiUaXPFxf5IqUS+VpK7s0xKFsdCfiAbAUzBFE9W4bhf4GViN3zyLJHU5ll9rm07oMXkosQBgcTR56LUuuAN71uNNC8sC16rPGo+3TYl6jwX4n+j9UZCDU9UZ19W8UkHKgrRdzNdrt70m4IGVMWLxhGJXkikhTITgmDc17nbWn8FnHHm/cblFsDF+ii3EG4EINtPYFiBgL/k4nbqusvsV2Fz9gvPJVBodKnAfP77o8A5XY43N+hPgZ1+WtLsG7W7JZ7EzIjpUzwlT34ZtbyID3u+X4/oyTllx9k+XxV+FAv8W/tOPw0LtR/ZB2YNraHwe3B1n+6SuEliZ/bFdgJ8MDmWZlz9kfo556lwD1NTRks2k0wUj/FkrdHuESglsZzdiiv+9nRSuLZCB3bc9YVQciXNQqRKiVpVVylDbiTHQKMoegvfsK5EvQ+mVMSfGJNkQQtMUk86Nrv8AJLzL8=

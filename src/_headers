@@ -3,6 +3,26 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains
 
 /
+  Content-Security-Policy: default-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com; frame-ancestors 'none';
+  Link: <https://fonts.googleapis.com/>; rel="preconnect", <https://fonts.gstatic.com/>; rel="preconnect"
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+
+/aneventapartdc/*
+  Content-Security-Policy: default-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com; frame-ancestors 'none';
+  Link: <https://fonts.googleapis.com/>; rel="preconnect", <https://fonts.gstatic.com/>; rel="preconnect"
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+
+/convergerva/*
+  Content-Security-Policy: default-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com; frame-ancestors 'none';
+  Link: <https://fonts.googleapis.com/>; rel="preconnect", <https://fonts.gstatic.com/>; rel="preconnect"
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+
+/refreshdc/*
+  Content-Security-Policy: default-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com; frame-ancestors 'none';
+  Link: <https://fonts.googleapis.com/>; rel="preconnect", <https://fonts.gstatic.com/>; rel="preconnect"
   X-Frame-Options: SAMEORIGIN
   X-XSS-Protection: 1; mode=block
 

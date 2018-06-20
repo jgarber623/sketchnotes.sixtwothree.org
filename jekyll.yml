@@ -9,6 +9,8 @@ host: 0.0.0.0
 
 permalink: /:categories/:title
 
+title: Sketchnotes
+
 assets:
   defaults:
     css:

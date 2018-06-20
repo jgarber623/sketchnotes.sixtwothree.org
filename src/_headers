@@ -31,3 +31,10 @@
 
 /assets/*.css
   X-Content-Type-Options: nosniff
+
+/favicon.ico
+  Cache-Control: max-age=31536000, immutable
+  Content-Type: image/x-icon
+
+/jgarber.png
+  Cache-Control: max-age=31536000, immutable

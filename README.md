@@ -8,4 +8,4 @@
 
 ## License
 
-The source code for sketchnotes.sixtwothree.org is freely available under the [MIT License](https://opensource.org/licenses/MIT).
+Some rights reserved. This site's source code and content are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/).

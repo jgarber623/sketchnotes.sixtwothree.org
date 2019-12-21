@@ -3,8 +3,7 @@ version: 2.1
 defaults: &defaults
   docker:
     - image: netlify/build:xenial
-  working_directory:
-    - /opt/repo
+  working_directory: /opt/repo
 
 jobs:
   build:

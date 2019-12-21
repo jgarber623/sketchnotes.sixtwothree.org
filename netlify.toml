@@ -1,6 +1,6 @@
 [[headers]]
   for = "/*"
-  [[headers.values]]
+  [headers.values]
     Content-Security-Policy = "default-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com; frame-ancestors 'none';"
     Link = '''
       <https://fonts.googleapis.com/>; rel=preconnect,
@@ -12,12 +12,12 @@
 
 [[headers]]
   for = "/favicon.ico"
-  [[headers.values]]
+  [headers.values]
     Content-Type = "image/x-icon"
 
 [[headers]]
   for = "/assets/stylesheets/*.css"
-  [[headers.values]]
+  [headers.values]
     X-Content-Type-Options = "nosniff"
 
 [[redirects]]

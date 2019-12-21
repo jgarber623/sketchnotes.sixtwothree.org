@@ -1,8 +1,6 @@
-// sass-lint:disable no-vendor-prefixes
 @-ms-viewport {
   width: device-width;
 }
-// sass-lint:enable no-vendor-prefixes
 
 *,
 *::before,
@@ -43,11 +41,9 @@ a {
   }
 }
 
-// sass-lint:disable no-vendor-prefixes
 img {
   -ms-interpolation-mode: bicubic;
   display: block;
   margin: 0 auto;
   max-width: 100%;
 }
-// sass-lint:enable no-vendor-prefixes

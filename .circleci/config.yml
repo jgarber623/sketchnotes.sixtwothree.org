@@ -3,6 +3,8 @@ version: 2.1
 defaults: &defaults
   docker:
     - image: netlify/build:xenial
+  working_directory:
+    - /opt/repo
 
 jobs:
   build:
@@ -37,7 +39,7 @@ jobs:
             - v1-node-cache-
       - run: build npm run test:stylesheets
 
-workflow:
+workflows:
   build-and-test:
     jobs:
       - build

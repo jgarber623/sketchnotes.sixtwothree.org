@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2013-10-12 11:03:52 -0400
-layout: post
+category: convergerva
+date: 2013-10-12T11:03:52-0400
 title: HTML5 Games with JavaScript and Canvas
 ---
 

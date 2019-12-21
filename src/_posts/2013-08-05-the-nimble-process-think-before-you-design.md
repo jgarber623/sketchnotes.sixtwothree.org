@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2013-08-05 11:25:09 -0400
-layout: post
+category: aneventapartdc
+date: 2013-08-05T11:25:09-0400
 title: 'The Nimble Process: Think Before You Design'
 ---
 

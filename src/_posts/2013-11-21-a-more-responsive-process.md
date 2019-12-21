@@ -1,7 +1,6 @@
 ---
-categories: refreshdc
-date: 2013-11-21 19:00:49 -0500
-layout: post
+category: refreshdc
+date: 2013-11-21T19:00:49-0500
 title: A More Responsive Process
 ---
 

@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2013-10-12 13:29:04 -0400
-layout: post
+category: convergerva
+date: 2013-10-12T13:29:04-0400
 title: The State of Being a Maker
 ---
 

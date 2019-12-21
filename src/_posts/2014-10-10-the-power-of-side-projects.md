@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2014-10-10 11:03:45 -0400
-layout: post
+category: convergerva
+date: 2014-10-10T11:03:45-0400
 title: The Power of Side Projects
 ---
 

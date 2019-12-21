@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2012-08-06 13:59:47 -0400
-layout: post
+category: aneventapartdc
+date: 2012-08-06T13:59:47-0400
 title: Mobile to the Future
 ---
 

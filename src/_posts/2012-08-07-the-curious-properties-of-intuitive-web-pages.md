@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2012-08-07 16:32:38 -0400
-layout: post
+category: aneventapartdc
+date: 2012-08-07T16:32:38-0400
 title: The Curious Properties of Intuitive Web Pages
 ---
 

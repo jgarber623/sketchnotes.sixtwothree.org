@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2013-08-06 12:00:22 -0400
-layout: post
+category: aneventapartdc
+date: 2013-08-06T12:00:22-0400
 title: Content/Communication
 ---
 

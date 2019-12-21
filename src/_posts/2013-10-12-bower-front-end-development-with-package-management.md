@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2013-10-12 15:18:17 -0400
-layout: post
+category: convergerva
+date: 2013-10-12T15:18:17-0400
 title: 'Bower: Front-End Development with Package Management'
 ---
 

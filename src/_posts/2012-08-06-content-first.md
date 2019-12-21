@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2012-08-06 09:06:38 -0400
-layout: post
+category: aneventapartdc
+date: 2012-08-06T09:06:38-0400
 title: Content First!
 ---
 

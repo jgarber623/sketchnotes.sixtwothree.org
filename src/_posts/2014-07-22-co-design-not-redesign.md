@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-22 16:26:54 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-22T16:26:54-0400
 title: Co-Design Not Redesign
 ---
 

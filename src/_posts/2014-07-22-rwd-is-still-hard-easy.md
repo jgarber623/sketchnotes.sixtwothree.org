@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-22 08:58:56 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-22T08:58:56-0400
 title: '#RWD is Still Hard/Easy'
 ---
 

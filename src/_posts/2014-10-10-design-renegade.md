@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2014-10-10 14:28:43 -0400
-layout: post
+category: convergerva
+date: 2014-10-10T14:28:43-0400
 title: Design Renegade
 ---
 

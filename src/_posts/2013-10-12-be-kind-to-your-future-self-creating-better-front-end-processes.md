@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2013-10-12 15:59:37 -0400
-layout: post
+category: convergerva
+date: 2013-10-12T15:59:37-0400
 title: 'Be Kind To Your Future Self: Creating Better Front-End Processes'
 ---
 

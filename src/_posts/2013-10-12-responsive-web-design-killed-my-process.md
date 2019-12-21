@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2013-10-12 08:51:44 -0400
-layout: post
+category: convergerva
+date: 2013-10-12T08:51:44-0400
 title: Responsive Web Design Killed My Process
 ---
 

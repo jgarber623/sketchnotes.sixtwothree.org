@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2013-08-06 11:59:26 -0400
-layout: post
+category: aneventapartdc
+date: 2013-08-06T11:59:26-0400
 title: The Map & The Territory
 ---
 

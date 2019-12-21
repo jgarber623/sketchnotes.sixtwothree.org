@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2013-08-05 10:05:32 -0400
-layout: post
+category: aneventapartdc
+date: 2013-08-05T10:05:32-0400
 title: Faster Design Decisions with Style Tiles
 ---
 

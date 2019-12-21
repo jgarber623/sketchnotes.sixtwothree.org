@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-21 10:14:19 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-21T10:14:19-0400
 title: 'The Integral Designer: Developing You'
 ---
 

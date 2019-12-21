@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2014-10-10 09:07:31 -0400
-layout: post
+category: convergerva
+date: 2014-10-10T09:07:31-0400
 title: Designers Can Open Source
 ---
 

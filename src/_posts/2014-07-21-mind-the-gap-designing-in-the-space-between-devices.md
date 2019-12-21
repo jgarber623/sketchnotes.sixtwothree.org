@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-21 15:16:51 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-21T15:16:51-0400
 title: 'Mind the Gap: Designing in the Space Between Devices'
 ---
 

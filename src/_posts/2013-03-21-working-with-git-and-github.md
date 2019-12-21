@@ -1,7 +1,6 @@
 ---
-categories: refreshdc
-date: 2013-03-21 19:13:45 -0400
-layout: post
+category: refreshdc
+date: 2013-03-21T19:13:45-0400
 title: Working with Git and GitHub
 ---
 

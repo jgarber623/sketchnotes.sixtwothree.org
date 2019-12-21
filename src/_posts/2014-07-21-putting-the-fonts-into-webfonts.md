@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-21 11:31:02 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-21T11:31:02-0400
 title: Putting the Fonts into Webfonts
 ---
 

@@ -1,7 +1,6 @@
 ---
-categories: refreshdc
-date: 2013-09-19 19:00:07 -0400
-layout: post
+category: refreshdc
+date: 2013-09-19T19:00:07-0400
 title: Practical Ways to Make Your Website Accessible
 ---
 

@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2013-08-05 15:04:33 -0400
-layout: post
+category: aneventapartdc
+date: 2013-08-05T15:04:33-0400
 title: The Immobile Web
 ---
 

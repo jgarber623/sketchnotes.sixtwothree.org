@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2013-08-06 08:44:34 -0400
-layout: post
+category: aneventapartdc
+date: 2013-08-06T08:44:34-0400
 title: The Long Web
 ---
 

@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2012-08-07 15:09:27 -0400
-layout: post
+category: aneventapartdc
+date: 2012-08-07T15:09:27-0400
 title: Designing Meetings to Work for Design
 ---
 

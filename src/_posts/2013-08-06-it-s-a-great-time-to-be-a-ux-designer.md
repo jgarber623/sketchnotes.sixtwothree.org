@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2013-08-06 12:01:38 -0400
-layout: post
+category: aneventapartdc
+date: 2013-08-06T12:01:38-0400
 title: It’s a Great Time To Be a UX Designer
 ---
 

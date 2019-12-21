@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2013-10-12 09:49:51 -0400
-layout: post
+category: convergerva
+date: 2013-10-12T09:49:51-0400
 title: Eye Tracking and the Design Process
 ---
 

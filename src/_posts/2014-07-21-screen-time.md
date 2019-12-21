@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-21 13:59:58 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-21T13:59:58-0400
 title: Screen Time
 ---
 

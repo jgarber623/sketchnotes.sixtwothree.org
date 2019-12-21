@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2014-10-10 13:04:59 -0400
-layout: post
+category: convergerva
+date: 2014-10-10T13:04:59-0400
 title: Making Musical Instruments & Music
 ---
 

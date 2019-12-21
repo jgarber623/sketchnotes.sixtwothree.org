@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-22 11:30:42 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-22T11:30:42-0400
 title: Designing Engagement
 ---
 

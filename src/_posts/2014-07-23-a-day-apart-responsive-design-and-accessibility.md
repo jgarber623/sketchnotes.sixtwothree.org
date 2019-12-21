@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-23 09:40:26 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-23T09:40:26-0400
 title: 'A Day Apart: Responsive Design and Accessibility'
 ---
 

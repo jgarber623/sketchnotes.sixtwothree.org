@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-22 10:16:39 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-22T10:16:39-0400
 title: The Art of Anticipation
 ---
 

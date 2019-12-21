@@ -1,7 +1,6 @@
 ---
-categories: convergerva
-date: 2013-10-12 12:53:18 -0400
-layout: post
+category: convergerva
+date: 2013-10-12T12:53:18-0400
 title: 'Git: The Story Right'
 ---
 

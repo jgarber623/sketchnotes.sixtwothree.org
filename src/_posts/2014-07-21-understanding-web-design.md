@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-21 08:59:11 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-21T08:59:11-0400
 title: Understanding Web Design
 ---
 

@@ -1,7 +1,6 @@
 ---
-categories: aneventapartdc
-date: 2014-07-21 16:30:08 -0400
-layout: post
+category: aneventapartdc
+date: 2014-07-21T16:30:08-0400
 title: UX Strategy Means Business
 ---
 

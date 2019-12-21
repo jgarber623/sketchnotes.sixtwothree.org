@@ -1,0 +1,4 @@
+{
+  "layout": "post",
+  "permalink": "{{ category }}/{{ page.fileSlug }}.html"
+}

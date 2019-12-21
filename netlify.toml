@@ -1,0 +1,42 @@
+[[headers]
+  for = "/*"
+  [[headers.values]]
+    Content-Security-Policy = "default-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src * data:; font-src 'self' https://fonts.gstatic.com; frame-ancestors 'none';"
+    Link = '''
+      <https://fonts.googleapis.com/>; rel=preconnect,
+      <https://fonts.gstatic.com/>; rel=preconnect
+    '''
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "1; mode=block"
+
+[[headers]]
+  for = "/favicon.ico"
+  [[headers.values]]
+    Content-Type = "image/x-icon"
+
+[[headers]]
+  for = "/assets/stylesheets/*.css"
+  [[headers.values]]
+    X-Content-Type-Options = "nosniff"
+
+[[redirects]]
+  from   = "https://sketchnotes-sixtwothree-org.netlify.com/*"
+  to     = "https://sketchnotes.sixtwothree.org/:splat "
+  status = 301
+  force  = true
+
+[[redirects]]
+  from   = "/aneventapartdc/*"
+  to     = "/aneventapartdc/:splat.html"
+  status = 200
+
+[[redirects]]
+  from   = "/convergerva/*"
+  to     = "/convergerva/:splat.html"
+  status = 200
+
+[[redirects]]
+  from   = "/refreshdc/*"
+  to     = "/refreshdc/:splat.html"
+  status = 200

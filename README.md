@@ -2,7 +2,6 @@
 
 **Notes that aren't really sketches.**
 
-[![Build](https://img.shields.io/circleci/build/gh/jgarber623/sketchnotes.sixtwothree.org?style=for-the-badge)](https://circleci.com/gh/jgarber623/sketchnotes.sixtwothree.org)
 [![Dependencies](https://img.shields.io/depfu/jgarber623/sketchnotes.sixtwothree.org.svg?style=for-the-badge)](https://depfu.com/github/jgarber623/sketchnotes.sixtwothree.org)
 [![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/jgarber623/sketchnotes.sixtwothree.org?style=for-the-badge)](https://snyk.io/test/github/jgarber623/sketchnotes.sixtwothree.org)
 

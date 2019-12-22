@@ -7,6 +7,7 @@
       <https://fonts.gstatic.com/>; rel=preconnect
     '''
     Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    X-Content-Type-Options = "nosniff"
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
 
@@ -14,11 +15,6 @@
   for = "/favicon.ico"
   [headers.values]
     Content-Type = "image/x-icon"
-
-[[headers]]
-  for = "/assets/stylesheets/*.css"
-  [headers.values]
-    X-Content-Type-Options = "nosniff"
 
 [[redirects]]
   from   = "https://sketchnotes-sixtwothree-org.netlify.com/*"

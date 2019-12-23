@@ -9,20 +9,14 @@ const sassCompilerOptions = {
   outputStyle: 'compressed'
 };
 
-const images = () => {
-  return gulp.src('./src/_assets/images/**/*')
-    .pipe(gulp.dest('./public/assets/images'));
-};
-
 const stylesheets = () => {
-  return gulp.src('./src/_assets/stylesheets/**/*.scss')
+  return gulp.src('./src/assets/stylesheets/**/*.scss')
     .pipe(sass(sassCompilerOptions).on('error', sass.logError))
     .pipe(gulp.dest('./public/assets/stylesheets'));
 };
 
-exports.build = gulp.parallel(images, stylesheets);
+exports.build = stylesheets;
 
 exports.watch = () => {
-  gulp.watch('./src/_assets/images/**/*', images);
-  gulp.watch('./src/_assets/stylesheets/**/*.scss', stylesheets);
+  gulp.watch('./src/assets/stylesheets/**/*.scss', stylesheets);
 };

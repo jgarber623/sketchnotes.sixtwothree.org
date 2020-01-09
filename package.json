@@ -16,15 +16,11 @@
     "url": "https://github.com/jgarber623/sketchnotes.sixtwothree.org"
   },
   "scripts": {
-    "build": "npx npm-run-all --print-label --parallel build:*",
-    "build:eleventy": "npx @11ty/eleventy --quiet",
-    "build:gulp": "npx gulp --color build",
+    "build": "npx @11ty/eleventy --quiet",
     "clean": "npx rimraf public",
     "prebuild": "npm run clean",
     "prestart": "npm run build",
-    "start": "npx npm-run-all --print-label --parallel start:*",
-    "start:eleventy": "npx @11ty/eleventy --quiet --serve",
-    "start:gulp": "npx gulp --color watch",
+    "start": "npx @11ty/eleventy --quiet --serve",
     "test": "npx npm-run-all --continue-on-error --print-label test:*",
     "test:javascripts": "npx eslint --color **/*.js",
     "test:stylesheets": "npx stylelint --color **/*.scss"
@@ -33,7 +29,6 @@
     "@11ty/eleventy": "^0.10.0",
     "eslint": "^6.8.0",
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2",
     "node-sass": "^4.13.0",
     "node-sass-glob-importer": "^5.3.2",
     "npm-run-all": "^4.1.5",

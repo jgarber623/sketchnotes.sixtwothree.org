@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0 0 0 1em;
 
-  li {
+  & li {
     position: relative;
 
     &::before {
@@ -15,12 +15,12 @@
       top: 0;
     }
 
-    + li {
+    & + li {
       margin-top: 0.8em;
     }
   }
 
-  .category {
+  & .category {
     font-size: 0.8em;
   }
 }

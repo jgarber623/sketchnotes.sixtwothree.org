@@ -1,0 +1,49 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  background: var(--color-grey) inline('../images/html.png') repeat 0 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--color-base);
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0 auto;
+  max-width: 45em;
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  background: none;
+  color: var(--color-orange);
+  text-decoration: underline;
+
+  &:focus,
+  &:hover {
+    color: var(--color-orange--hover);
+  }
+}
+
+img {
+  display: block;
+  -ms-interpolation-mode: bicubic;
+  margin: 0 auto;
+  max-width: 100%;
+}

@@ -2,8 +2,8 @@
 
 **Notes that aren't really sketches.**
 
-[![Dependencies](https://img.shields.io/depfu/jgarber623/sketchnotes.sixtwothree.org.svg?style=for-the-badge)](https://depfu.com/github/jgarber623/sketchnotes.sixtwothree.org)
-[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/jgarber623/sketchnotes.sixtwothree.org?style=for-the-badge)](https://snyk.io/test/github/jgarber623/sketchnotes.sixtwothree.org)
+[![Deployment](https://img.shields.io/netlify/a9aa9253-bb10-4b50-8996-92c3f6cf9dbc?logo=netlify&style=for-the-badge)](https://app.netlify.com/sites/sketchnotes-sixtwothree-org/deploys)
+[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/jgarber623/refresh-dc.org?logo=snyk&style=for-the-badge)](https://snyk.io/test/github/jgarber623/sketchnotes.sixtwothree.org)
 
 ## License
 

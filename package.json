@@ -33,7 +33,7 @@
     "postcss": "^8.3.11",
     "postcss-assets": "^6.0.0",
     "postcss-easy-import": "^3.0.0",
-    "postcss-nesting": "^8.0.1",
+    "postcss-nesting": "^9.0.0",
     "stylelint": "^14.0.1",
     "stylelint-config-standard": "^23.0.0",
     "stylelint-order": "^5.0.0"

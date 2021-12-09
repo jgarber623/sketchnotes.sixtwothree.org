@@ -1,3 +1,4 @@
+/* stylelint-disable-next-line at-rule-no-vendor-prefix */
 @-ms-viewport {
   width: device-width;
 }
@@ -9,7 +10,7 @@
 }
 
 html {
-  background: var(--color-grey) inline('../images/html.png') repeat 0 0;
+  background: var(--color-grey) inline("../images/html.png") repeat 0 0;
   box-sizing: border-box;
 }
 
@@ -37,12 +38,13 @@ a {
 
   &:focus,
   &:hover {
-    color: var(--color-orange--hover);
+    color: var(--color-orange-hover);
   }
 }
 
 img {
   display: block;
+  /* stylelint-disable-next-line property-no-vendor-prefix */
   -ms-interpolation-mode: bicubic;
   margin: 0 auto;
   max-width: 100%;

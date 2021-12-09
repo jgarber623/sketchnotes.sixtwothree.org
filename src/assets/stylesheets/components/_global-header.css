@@ -1,5 +1,5 @@
 .global-header {
-  background: var(--color-black--translucent);
+  background: var(--color-black-translucent);
   padding: 1.25em;
 
   & h1 {

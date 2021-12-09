@@ -21,7 +21,7 @@
   & h4,
   & h5,
   & h6 {
-    border-bottom: 2px solid var(--color-black--translucent);
+    border-bottom: 2px solid var(--color-black-translucent);
     margin-top: 2em;
     padding-bottom: 0.625em;
   }
@@ -41,7 +41,7 @@
   }
 
   & blockquote {
-    background: var(--color-black--translucent);
+    background: var(--color-black-translucent);
     border-radius: 0.25em;
     font-family: "Open Sans", sans-serif;
     padding: 0.1em 1.25em;

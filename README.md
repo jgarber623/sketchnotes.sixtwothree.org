@@ -3,6 +3,7 @@
 **Notes that aren't really sketches.**
 
 [![Deployment](https://img.shields.io/netlify/a9aa9253-bb10-4b50-8996-92c3f6cf9dbc?logo=netlify&style=for-the-badge)](https://app.netlify.com/sites/sketchnotes-sixtwothree-org/deploys)
+[![Build](https://img.shields.io/github/workflow/status/jgarber623/sketchnotes.sixtwothree.org/CI?logo=github&style=for-the-badge)](https://github.com/jgarber623/sketchnotes.sixtwothree.org/actions/workflows/ci.yml)
 [![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/jgarber623/sketchnotes.sixtwothree.org?logo=snyk&style=for-the-badge)](https://snyk.io/test/github/jgarber623/sketchnotes.sixtwothree.org)
 
 ## License

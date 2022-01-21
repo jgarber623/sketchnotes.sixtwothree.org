@@ -1,5 +1,10 @@
 module.exports = eleventy => {
-  eleventy.setBrowserSyncConfig(require('./bs-config.js'));
+  eleventy.setBrowserSyncConfig({
+    serveStatic: ['public'],
+    serveStaticOptions: {
+      extensions: ['html']
+    }
+  });
 
   eleventy.addCollection('posts', collection => {
     return collection.getFilteredByGlob('./src/_posts/*.md').reverse();

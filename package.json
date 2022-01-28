@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "*",
+    "@jgarber/eslint-config": "*",
     "cssnano": "*",
     "eslint": "*",
     "npm-run-all": "*",

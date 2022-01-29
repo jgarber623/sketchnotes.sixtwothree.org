@@ -23,7 +23,6 @@
     "@11ty/eleventy": "*",
     "@jgarber/eslint-config": "*",
     "cssnano": "*",
-    "eslint": "*",
     "npm-run-all": "*",
     "postcss": "*",
     "postcss-assets": "*",

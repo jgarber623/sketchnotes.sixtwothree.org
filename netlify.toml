@@ -13,7 +13,7 @@
       img-src * data:; \
       media-src *; \
       object-src 'none'; \
-      script-src 'none' \
+      script-src 'none'; \
       style-src 'self' https://fonts.googleapis.com; \
       worker-src 'none';\
     """

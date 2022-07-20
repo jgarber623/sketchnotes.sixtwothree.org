@@ -1,7 +1,5 @@
 module.exports = eleventyConfig => {
-  eleventyConfig.addCollection('posts', collection => {
-    return collection.getFilteredByGlob('./src/_posts/*.md').reverse();
-  });
+  eleventyConfig.setLibrary('md', require('./lib/libraries/markdown.js'));
 
   eleventyConfig.addExtension('css', require('./lib/extensions/css.js'));
 

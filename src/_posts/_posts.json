@@ -1,4 +1,5 @@
 {
   "layout": "post",
-  "permalink": "{{ category }}/{{ page.fileSlug }}/"
+  "permalink": "{{ category }}/{{ page.fileSlug }}/",
+  "tags": ["post"]
 }

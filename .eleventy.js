@@ -3,8 +3,6 @@ module.exports = eleventyConfig => {
     return collection.getFilteredByGlob('./src/_posts/*.md').reverse();
   });
 
-  eleventyConfig.addFilter('prettify', require('./lib/filters/prettify.js'));
-
   eleventyConfig.addPassthroughCopy('./src/favicon.ico');
   eleventyConfig.addPassthroughCopy('./src/jgarber.png');
   eleventyConfig.addPassthroughCopy('./src/robots.txt');

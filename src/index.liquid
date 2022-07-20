@@ -5,7 +5,7 @@ layout: base
 <ul class="posts h-feed">
   {% for post in collections.posts %}
     <li class="h-entry">
-      <a href="{{ post.url | prettify }}" class="p-name u-url">{{ post.data.title }}</a>
+      <a href="{{ post.url }}" class="p-name u-url">{{ post.data.title }}</a>
       <span class="p-category">#{{ post.data.category }}</span>
     </li>
   {% endfor %}

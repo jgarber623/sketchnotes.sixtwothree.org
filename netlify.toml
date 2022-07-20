@@ -35,21 +35,3 @@
   to     = "https://sketchnotes.sixtwothree.org/:splat"
   status = 301
   force  = true
-
-[[redirects]]
-  from   = "/aneventapartdc/*"
-  to     = "/aneventapartdc/:splat.html"
-  status = 200
-  force  = true
-
-[[redirects]]
-  from   = "/convergerva/*"
-  to     = "/convergerva/:splat.html"
-  status = 200
-  force  = true
-
-[[redirects]]
-  from   = "/refreshdc/*"
-  to     = "/refreshdc/:splat.html"
-  status = 200
-  force  = true

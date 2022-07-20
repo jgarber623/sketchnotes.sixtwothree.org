@@ -1,6 +1,4 @@
 module.exports = eleventyConfig => {
-  eleventyConfig.setBrowserSyncConfig(require('@jgarber/browsersync-config/eleventy'));
-
   eleventyConfig.addCollection('posts', collection => {
     return collection.getFilteredByGlob('./src/_posts/*.md').reverse();
   });

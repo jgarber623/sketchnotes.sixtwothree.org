@@ -1,6 +1,7 @@
 module.exports = eleventyConfig => {
   eleventyConfig.setLibrary('md', require('./lib/libraries/markdown.js'));
 
+  eleventyConfig.addDataExtension('yml', require('./lib/extensions/yaml.js'));
   eleventyConfig.addExtension('css', require('./lib/extensions/css.js'));
 
   eleventyConfig.addPassthroughCopy('./src/favicon.ico');

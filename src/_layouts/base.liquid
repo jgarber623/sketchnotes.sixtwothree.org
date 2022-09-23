@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
 
-  <title>{{ pkg.name }}{% if title %}: {{ title }}{% endif %}</title>
+  <title>{{ site.title }}{% if title %}: {{ title }}{% endif %}</title>
 
-  <meta name="apple-mobile-web-app-title" content="{{ pkg.name }}">
-  <meta name="application-name" content="{{ pkg.name }}">
-  <meta name="author" content="{{ pkg.author.name }}">
-  <meta name="description" content="{{ pkg.description }}">
+  <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
+  <meta name="application-name" content="{{ site.title }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="apple-touch-icon" href="/jgarber.png">
@@ -28,7 +28,7 @@
   </main>
 
   <footer class="global-footer">
-    <p>Compiled by <a href="{{ pkg.author.url }}">{{ pkg.author.name }}</a>. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Some rights reserved</a>. Source code available on <a href="{{ pkg.repository.url }}" rel="source">GitHub</a>.</p>
+    <p>Compiled by <a href="{{ site.author.url }}">{{ site.author.name }}</a>. <a href="{{ site.license.url }}" rel="license">Some rights reserved</a>. Source code available on <a href="{{ site.source.url }}" rel="source">{{ site.source.name }}</a>.</p>
   </footer>
 
 </body>

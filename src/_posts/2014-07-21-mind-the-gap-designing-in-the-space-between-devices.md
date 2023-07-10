@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2014-07-21T15:16:51-0400
-title: 'Mind the Gap: Designing in the Space Between Devices'
+title: "Mind the Gap: Designing in the Space Between Devices"
 ---
 
 Presented by [Josh Clark](http://globalmoxie.com/).

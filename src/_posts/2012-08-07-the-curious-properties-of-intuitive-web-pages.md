@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2012-08-07T16:32:38-0400
-title: The Curious Properties of Intuitive Web Pages
+title: "The Curious Properties of Intuitive Web Pages"
 ---
 
 Presented by [Jared Spool](http://www.uie.com/).

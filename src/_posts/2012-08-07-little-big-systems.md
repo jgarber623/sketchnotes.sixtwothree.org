@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2012-08-07T10:15:46-0400
-title: Little Big Systems
+title: "Little Big Systems"
 ---
 
 Presented by [Erin Kissane](http://incisive.nu/).

@@ -1,7 +1,7 @@
 ---
-category: refreshdc
+category: "refreshdc"
 date: 2013-03-21T19:13:45-0400
-title: Working with Git and GitHub
+title: "Working with Git and GitHub"
 ---
 
 Presented by [Matt Yoho](http://mattyoho.com/).

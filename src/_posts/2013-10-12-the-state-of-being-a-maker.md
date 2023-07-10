@@ -1,7 +1,7 @@
 ---
-category: convergerva
+category: "convergerva"
 date: 2013-10-12T13:29:04-0400
-title: The State of Being a Maker
+title: "The State of Being a Maker"
 ---
 
 Presented by [Bryce Bigger](http://thebiggerdesign.com/).

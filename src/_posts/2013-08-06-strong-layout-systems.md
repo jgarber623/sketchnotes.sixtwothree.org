@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2013-08-06T08:46:17-0400
-title: Strong Layout Systems
+title: "Strong Layout Systems"
 ---
 
 Presented by [Eric Meyer](http://meyerweb.com/).

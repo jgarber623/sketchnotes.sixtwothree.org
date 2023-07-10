@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2012-08-07T08:58:19-0400
-title: Uncle Sam Wants You (To Optimize Your Content for Mobile)
+title: "Uncle Sam Wants You (To Optimize Your Content for Mobile)"
 ---
 
 Presented by [Karen McGrane](http://karenmcgrane.com/).

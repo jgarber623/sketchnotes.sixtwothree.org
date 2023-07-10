@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2014-07-21T16:30:08-0400
-title: UX Strategy Means Business
+title: "UX Strategy Means Business"
 ---
 
 Presented by [Jared Spool](http://www.uie.com/).

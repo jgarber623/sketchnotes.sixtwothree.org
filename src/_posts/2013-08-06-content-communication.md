@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2013-08-06T12:00:22-0400
-title: Content/Communication
+title: "Content/Communication"
 ---
 
 Presented by [Kristina Halvorson](http://braintraffic.com/).

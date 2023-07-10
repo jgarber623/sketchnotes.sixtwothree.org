@@ -1,7 +1,7 @@
 ---
-category: convergerva
+category: "convergerva"
 date: 2014-10-10T13:04:59-0400
-title: Making Musical Instruments & Music
+title: "Making Musical Instruments & Music"
 ---
 
 Presented by [Moldover](http://moldover.com/).

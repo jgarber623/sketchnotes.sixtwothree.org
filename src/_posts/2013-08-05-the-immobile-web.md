@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2013-08-05T15:04:33-0400
-title: The Immobile Web
+title: "The Immobile Web"
 ---
 
 Presented by [Jason Grigsby](http://userfirstweb.com/).

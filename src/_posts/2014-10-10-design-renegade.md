@@ -1,7 +1,7 @@
 ---
-category: convergerva
+category: "convergerva"
 date: 2014-10-10T14:28:43-0400
-title: Design Renegade
+title: "Design Renegade"
 ---
 
 Presented by [James White](http://www.signalnoise.com/).
@@ -47,4 +47,3 @@ Presented by [James White](http://www.signalnoise.com/).
 - Be your brand.
 - Personal passion should never be replaced with monetary goals.
 - The power of self-investment.
-

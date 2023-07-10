@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2012-08-07T13:57:44-0400
-title: What Clients Don’t Know (and Why It’s Your Fault)
+title: "What Clients Don’t Know (and Why It’s Your Fault)"
 ---
 
 Presented by [Mike Monteiro](http://mikemonteiro.com/).

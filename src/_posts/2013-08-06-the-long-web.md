@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2013-08-06T08:44:34-0400
-title: The Long Web
+title: "The Long Web"
 ---
 
 Presented by [Jeremy Keith](http://adactio.com/).

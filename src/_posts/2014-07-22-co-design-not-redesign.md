@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2014-07-22T16:26:54-0400
-title: Co-Design Not Redesign
+title: "Co-Design Not Redesign"
 ---
 
 Presented by [Kevin M. Hoffman](http://kevinmhoffman.com/).

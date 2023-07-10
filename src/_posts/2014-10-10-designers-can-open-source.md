@@ -1,7 +1,7 @@
 ---
-category: convergerva
+category: "convergerva"
 date: 2014-10-10T09:07:31-0400
-title: Designers Can Open Source
+title: "Designers Can Open Source"
 ---
 
 Presented by [Garth Braithwaite](http://www.garthdb.com/).
@@ -42,4 +42,4 @@ Presented by [Garth Braithwaite](http://www.garthdb.com/).
 - File Formats
 - Lack of desire
 - Unreasonable greed
-- Pride 
+- Pride

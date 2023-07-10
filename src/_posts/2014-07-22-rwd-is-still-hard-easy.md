@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2014-07-22T08:58:56-0400
-title: '#RWD is Still Hard/Easy'
+title: "#RWD is Still Hard/Easy"
 ---
 
 Presented by [Dan Mall](http://danielmall.com/).

@@ -1,7 +1,7 @@
 ---
-category: convergerva
+category: "convergerva"
 date: 2013-10-12T12:53:18-0400
-title: 'Git: The Story Right'
+title: "Git: The Story Right"
 ---
 
 Presented by [Jed Schneider](https://twitter.com/jedschneider).

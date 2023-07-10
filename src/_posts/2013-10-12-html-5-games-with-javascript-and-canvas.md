@@ -1,7 +1,7 @@
 ---
-category: convergerva
+category: "convergerva"
 date: 2013-10-12T11:03:52-0400
-title: HTML5 Games with JavaScript and Canvas
+title: "HTML5 Games with JavaScript and Canvas"
 ---
 
 Presented by [Dan Tello](http://viget.com/about/team/dtello).

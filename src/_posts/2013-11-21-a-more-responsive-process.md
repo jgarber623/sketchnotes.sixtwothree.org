@@ -1,7 +1,7 @@
 ---
-category: refreshdc
+category: "refreshdc"
 date: 2013-11-21T19:00:49-0500
-title: A More Responsive Process
+title: "A More Responsive Process"
 ---
 
 Presented by [Brandon Gray](https://twitter.com/brandongray).

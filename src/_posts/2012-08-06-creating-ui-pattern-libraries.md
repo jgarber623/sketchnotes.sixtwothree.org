@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2012-08-06T10:14:38-0400
-title: Creating UI Pattern Libraries
+title: "Creating UI Pattern Libraries"
 ---
 
 Presented by [Sarah Parmenter](http://www.sazzy.co.uk/).

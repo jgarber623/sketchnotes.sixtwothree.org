@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2014-07-21T08:59:11-0400
-title: Understanding Web Design
+title: "Understanding Web Design"
 ---
 
 Presented by [Jeffrey Zeldman](http://www.zeldman.com/).

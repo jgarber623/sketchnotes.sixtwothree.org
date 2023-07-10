@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2013-08-06T11:59:26-0400
-title: The Map & The Territory
+title: "The Map & The Territory"
 ---
 
 Presented by [Ethan Marcotte](http://ethanmarcotte.com/).

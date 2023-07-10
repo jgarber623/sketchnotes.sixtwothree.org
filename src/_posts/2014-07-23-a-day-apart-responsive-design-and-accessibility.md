@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2014-07-23T09:40:26-0400
-title: 'A Day Apart: Responsive Design and Accessibility'
+title: "A Day Apart: Responsive Design and Accessibility"
 ---
 
 Presented by [Derek Featherstone](http://simplyaccessible.com/).

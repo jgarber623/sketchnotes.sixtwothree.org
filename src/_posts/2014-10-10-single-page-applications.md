@@ -1,7 +1,7 @@
 ---
-category: convergerva
+category: "convergerva"
 date: 2014-10-10T09:41:24-0400
-title: Single Page Applications
+title: "Single Page Applications"
 ---
 
 Presented by [Tiffany France](http://www.tiffanyfrance.com/).

@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2013-08-05T09:00:37-0400
-title: Ten Commandments of Web Design
+title: "Ten Commandments of Web Design"
 ---
 
 Presented by [Jeffrey Zeldman](http://www.zeldman.com/).

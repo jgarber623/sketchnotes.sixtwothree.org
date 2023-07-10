@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2014-07-22T13:59:00-0400
-title: SVG is for Everybody
+title: "SVG is for Everybody"
 ---
 
 Presented by [Chris Coyier](http://chriscoyier.net/).

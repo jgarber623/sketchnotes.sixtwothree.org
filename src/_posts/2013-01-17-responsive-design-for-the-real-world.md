@@ -1,7 +1,7 @@
 ---
-category: refreshdc
+category: "refreshdc"
 date: 2013-01-17T19:00:00-0500
-title: Responsive Design for the Real World
+title: "Responsive Design for the Real World"
 ---
 
 Presented by [Clarissa Peterson](http://www.clarissapeterson.com/).

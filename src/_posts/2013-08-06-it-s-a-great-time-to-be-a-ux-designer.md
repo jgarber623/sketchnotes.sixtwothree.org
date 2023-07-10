@@ -1,7 +1,7 @@
 ---
-category: aneventapartdc
+category: "aneventapartdc"
 date: 2013-08-06T12:01:38-0400
-title: It’s a Great Time To Be a UX Designer
+title: "It’s a Great Time To Be a UX Designer"
 ---
 
 Presented by [Jared Spool](http://www.uie.com/).

@@ -2,25 +2,36 @@
 <html lang="en-US">
 <head>
   <meta charset="utf-8">
-
-  <title>{{ site.title }}{% if title %}: {{ title }}{% endif %}</title>
-
-  <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
-  <meta name="application-name" content="{{ site.title }}">
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="apple-touch-icon" href="/jgarber.png">
-  <link rel="shortcut icon" href="/jgarber.png">
+  {% capture page_title -%}{{ app.name }}{% if title %}: {{ title }}{% endif %}{% endcapture -%}
+
+  <title>{{ page_title }}</title>
 
   <link rel="stylesheet" href="/assets/stylesheets/application.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:700|Source+Sans+Pro:400,400i,700&display=swap">
+
+  <meta name="apple-mobile-web-app-title" content="{{ app.name }}">
+  <meta name="application-name" content="{{ app.name }}">
+  <meta name="author" content="{{ pkg.author.name }}">
+  <meta name="description" content="{{ app.description }}">
+  <meta name="theme-color" content="{{ app.theme_color }}">
+
+  <meta property="og:author_name" content="{{ pkg.author.name }}">
+  <meta property="og:author_url" content="{{ pkg.author.url }}">
+  <meta property="og:description" content="{{ app.description }}">
+  <meta property="og:image" content="{{ app.start_url }}{{ app.icons[0].src }}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:url" content="{{ app.start_url }}{{ page.url }}">
+
+  <link rel="apple-touch-icon" href="{{ app.icons[0].src }}">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="shortcut icon" href="{{ app.icons[0].src }}">
 </head>
 <body>
 
   <header class="global-header">
-    <h1><a href="/" class="h-card" rel="home">Sketchnotes</a></h1>
+    <h1><a href="/" class="h-card" rel="home">{{ app.short_name }}</a></h1>
   </header>
 
   <main class="global-content">
@@ -28,7 +39,7 @@
   </main>
 
   <footer class="global-footer">
-    <p>Compiled by <a href="{{ site.author.url }}" class="h-card">{{ site.author.name }}</a>. <a href="{{ site.license.url }}" rel="license">Some rights reserved</a>. Source code available on <a href="{{ site.source.url }}" rel="source">{{ site.source.name }}</a>.</p>
+    <p>Compiled by <a href="{{ pkg.author.url }}" class="h-card">{{ pkg.author.name }}</a>. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Some rights reserved</a>. Source code available on <a href="{{ pkg.repository.url }}" rel="source">GitHub</a>.</p>
   </footer>
 
 </body>

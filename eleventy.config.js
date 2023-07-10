@@ -1,9 +1,19 @@
 module.exports = function(eleventyConfig) {
+  // Global Data
+  eleventyConfig.addGlobalData('app', require('./src/manifest.webmanifest.json'));
+
+  // Passthrough File Copy
+  eleventyConfig
+    .addPassthroughCopy('./src/*.{ico,png,txt}')
+    .addPassthroughCopy({
+      './src/manifest.webmanifest.json': 'manifest.webmanifest'
+    });
+
+  // Libraries
   eleventyConfig.setLibrary('md', require('./lib/libraries/markdown.js'));
 
+  // Plugins
   eleventyConfig.addPlugin(require('./lib/plugins/postcss.js'));
-
-  eleventyConfig.addPassthroughCopy('./src/*.{ico,png,txt}');
 
   return {
     dir: {

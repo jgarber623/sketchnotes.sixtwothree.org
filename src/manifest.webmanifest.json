@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "background_color": "#d82",
+  "description": "Notes that aren’t really sketches.",
+  "icons": [
+    {
+      "src": "/jgarber.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-US",
+  "name": "sketchnotes.sixtwothree.org",
+  "short_name": "Sketchnotes",
+  "start_url": "https://sketchnotes.sixtwothree.org",
+  "theme_color": "#d82"
+}

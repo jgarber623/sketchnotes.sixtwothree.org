@@ -1,8 +1,3 @@
-/* stylelint-disable-next-line at-rule-no-vendor-prefix */
-@-ms-viewport {
-  width: device-width;
-}
-
 *,
 *::before,
 *::after {
@@ -44,8 +39,6 @@ a {
 
 img {
   display: block;
-  /* stylelint-disable-next-line property-no-vendor-prefix */
-  -ms-interpolation-mode: bicubic;
   margin: 0 auto;
   max-width: 100%;
 }

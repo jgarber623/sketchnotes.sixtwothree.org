@@ -14,7 +14,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setLibrary('md', require('./lib/libraries/markdown.js'));
 
   // Plugins
-  eleventyConfig.addPlugin(require('./lib/plugins/postcss.js'));
+  eleventyConfig.addPlugin(require('@jgarber/eleventy-plugin-postcss'));
 
   return {
     dir: {

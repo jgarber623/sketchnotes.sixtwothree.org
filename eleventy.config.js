@@ -10,10 +10,8 @@ module.exports = function(eleventyConfig) {
       './src/manifest.webmanifest.json': 'manifest.webmanifest'
     });
 
-  // Libraries
-  eleventyConfig.setLibrary('md', require('./lib/libraries/markdown.js'));
-
   // Plugins
+  eleventyConfig.addPlugin(require('@jgarber/eleventy-plugin-markdown'));
   eleventyConfig.addPlugin(require('@jgarber/eleventy-plugin-postcss'));
 
   return {

@@ -9,10 +9,7 @@
     "email": "jason@sixtwothree.org",
     "url": "https://sixtwothree.org"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jgarber623/sketchnotes.sixtwothree.org"
-  },
+  "repository": "github:jgarber623/sketchnotes.sixtwothree.org",
   "scripts": {
     "build": "eleventy --quiet",
     "clean": "rm -rf _site",

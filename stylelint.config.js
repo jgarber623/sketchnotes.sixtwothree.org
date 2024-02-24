@@ -1,6 +1,6 @@
 module.exports = {
-  extends: '@jgarber/stylelint-config',
+  extends: "@jgarber/stylelint-config",
   rules: {
-    'function-no-unknown': [true, { ignoreFunctions: ['inline'] }]
-  }
+    "function-no-unknown": [true, { ignoreFunctions: ["inline"] }],
+  },
 };

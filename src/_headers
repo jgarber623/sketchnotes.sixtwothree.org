@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: base-uri 'self'; default-src 'none'; font-src https://fonts.gstatic.com; img-src * data:; manifest-src 'self'; media-src *; script-src 'sha256-321b4f657afbf8ba49518e6ab4cbad07ea967d0b4c68f71c7deed05ed09c1187'; style-src 'self' https://fonts.googleapis.com;
+  Content-Security-Policy: base-uri 'self'; default-src 'none'; font-src https://fonts.gstatic.com; img-src * data:; manifest-src 'self'; media-src *; script-src 'unsafe-hashes' 'sha256-321b4f657afbf8ba49518e6ab4cbad07ea967d0b4c68f71c7deed05ed09c1187'; style-src 'self' https://fonts.googleapis.com;
   Referrer-Policy: no-referrer-when-downgrade
   X-Frame-Options: DENY
   X-XSS-Protection: 0

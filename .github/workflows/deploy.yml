@@ -15,7 +15,7 @@ jobs:
       contents: read
       deployments: write
     needs: ci
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     environment:
       name: sketchnotes-sixtwothree-org (Production)
       url: https://sketchnotes.sixtwothree.org
@@ -27,10 +27,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - uses: cloudflare/pages-action@v1
+      - uses: cloudflare/wrangler-action@v3
         with:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          directory: _site
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: sketchnotes-sixtwothree-org
+          command: pages deploy _site --project-name=sketchnotes-sixtwothree-org

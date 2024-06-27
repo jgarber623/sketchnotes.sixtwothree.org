@@ -1,8 +1,13 @@
-module.exports = {
+import cssnano from "cssnano";
+import postcssAssets from "postcss-assets";
+import postcssEasyImport from "postcss-easy-import";
+import postcssNesting from "postcss-nesting";
+
+export default {
   plugins: [
-    require("postcss-easy-import"),
-    require("postcss-nesting"),
-    require("postcss-assets")({ basePath: "./src/assets" }),
-    require("cssnano"),
+    postcssEasyImport,
+    postcssNesting,
+    postcssAssets({ basePath: "./src/assets" }),
+    cssnano,
   ],
 };

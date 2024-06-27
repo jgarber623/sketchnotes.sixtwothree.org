@@ -1,8 +1,6 @@
-module.exports = (async () => {
-  const { default: config } = await import("@jgarber/eslint-config");
+import config from "@jgarber/eslint-config";
 
-  return [
-    { ignores: ["site"] },
-    ...config,
-  ];
-})();
+export default [
+  { ignores: ["site"] },
+  ...config,
+];

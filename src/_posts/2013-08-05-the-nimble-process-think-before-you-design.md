@@ -1,7 +1,7 @@
 ---
 title: "The Nimble Process: Think Before You Design"
 date: 2013-08-05T11:25:09-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jason Santa Maria](http://jasonsantamaria.com/), currently working at [Editorially](https://editorially.com/).

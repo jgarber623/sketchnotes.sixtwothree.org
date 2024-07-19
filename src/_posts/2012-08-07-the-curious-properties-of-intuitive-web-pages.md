@@ -1,7 +1,7 @@
 ---
 title: "The Curious Properties of Intuitive Web Pages"
 date: 2012-08-07T16:32:38-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jared Spool](http://www.uie.com/).

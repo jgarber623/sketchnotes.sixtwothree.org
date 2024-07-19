@@ -1,7 +1,7 @@
 ---
 title: "The Immobile Web"
 date: 2013-08-05T15:04:33-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jason Grigsby](http://userfirstweb.com/).

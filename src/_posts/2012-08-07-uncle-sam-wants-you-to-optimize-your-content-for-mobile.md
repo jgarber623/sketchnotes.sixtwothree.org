@@ -1,7 +1,7 @@
 ---
 title: "Uncle Sam Wants You (To Optimize Your Content for Mobile)"
 date: 2012-08-07T08:58:19-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Karen McGrane](http://karenmcgrane.com/).

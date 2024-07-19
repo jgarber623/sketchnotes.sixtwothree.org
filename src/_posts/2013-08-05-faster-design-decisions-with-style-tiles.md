@@ -1,7 +1,7 @@
 ---
 title: "Faster Design Decisions with Style Tiles"
 date: 2013-08-05T10:05:32-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Samantha Warren](http://badassideas.com/).

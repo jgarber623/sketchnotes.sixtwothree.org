@@ -1,7 +1,7 @@
 ---
 title: "Making Musical Instruments & Music"
 date: 2014-10-10T13:04:59-0400
-tags: "convergerva"
+tags: "ConvergeRVA"
 ---
 
 Presented by [Moldover](http://moldover.com/).

@@ -1,7 +1,7 @@
 ---
 title: "The Long Web"
 date: 2013-08-06T08:44:34-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jeremy Keith](http://adactio.com/).

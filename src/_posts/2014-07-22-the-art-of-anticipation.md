@@ -1,7 +1,7 @@
 ---
 title: "The Art of Anticipation"
 date: 2014-07-22T10:16:39-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Derek Featherstone](http://simplyaccessible.com/).

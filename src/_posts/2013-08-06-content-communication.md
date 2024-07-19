@@ -1,7 +1,7 @@
 ---
 title: "Content/Communication"
 date: 2013-08-06T12:00:22-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Kristina Halvorson](http://braintraffic.com/).

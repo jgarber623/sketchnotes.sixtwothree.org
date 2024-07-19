@@ -1,7 +1,7 @@
 ---
 title: "Mind the Gap: Designing in the Space Between Devices"
 date: 2014-07-21T15:16:51-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Josh Clark](http://globalmoxie.com/).

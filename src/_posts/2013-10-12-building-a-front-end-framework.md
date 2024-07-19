@@ -1,7 +1,7 @@
 ---
 title: "Building A Front-End Framework"
 date: 2013-10-12T10:31:42-0400
-tags: "convergerva"
+tags: "ConvergeRVA"
 ---
 
 Presented by [Ghaida Zahran](http://ghaidazahran.com/).

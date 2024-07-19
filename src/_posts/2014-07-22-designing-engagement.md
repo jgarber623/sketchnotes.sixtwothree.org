@@ -1,7 +1,7 @@
 ---
 title: "Designing Engagement"
 date: 2014-07-22T11:30:42-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jaimee Newberry](http://www.jaimeejaimee.com/).

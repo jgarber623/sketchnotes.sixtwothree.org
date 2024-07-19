@@ -1,7 +1,7 @@
 ---
 title: "Little Big Systems"
 date: 2012-08-07T10:15:46-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Erin Kissane](http://incisive.nu/).

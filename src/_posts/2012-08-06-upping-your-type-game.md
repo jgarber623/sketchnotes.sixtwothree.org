@@ -1,7 +1,7 @@
 ---
 title: "Upping Your Type Game"
 date: 2012-08-06T11:32:07-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jessica Hische](http://jessicahische.is/).

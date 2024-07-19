@@ -1,7 +1,7 @@
 ---
 title: "It’s a Write/Read (Mobile) Web"
 date: 2013-08-05T13:53:16-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Luke Wroblewski](http://www.lukew.com/).

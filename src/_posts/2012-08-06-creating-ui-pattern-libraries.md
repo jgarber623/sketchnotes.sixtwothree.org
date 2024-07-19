@@ -1,7 +1,7 @@
 ---
 title: "Creating UI Pattern Libraries"
 date: 2012-08-06T10:14:38-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Sarah Parmenter](http://www.sazzy.co.uk/).

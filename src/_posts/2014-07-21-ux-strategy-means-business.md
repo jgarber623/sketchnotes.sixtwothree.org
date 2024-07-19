@@ -1,7 +1,7 @@
 ---
 title: "UX Strategy Means Business"
 date: 2014-07-21T16:30:08-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jared Spool](http://www.uie.com/).

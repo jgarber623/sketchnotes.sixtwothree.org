@@ -1,7 +1,7 @@
 ---
 title: "Designers Can Open Source"
 date: 2014-10-10T09:07:31-0400
-tags: "convergerva"
+tags: "ConvergeRVA"
 ---
 
 Presented by [Garth Braithwaite](http://www.garthdb.com/).

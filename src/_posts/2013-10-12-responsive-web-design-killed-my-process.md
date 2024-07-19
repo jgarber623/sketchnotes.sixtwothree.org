@@ -1,7 +1,7 @@
 ---
 title: "Responsive Web Design Killed My Process"
 date: 2013-10-12T08:51:44-0400
-tags: "convergerva"
+tags: "ConvergeRVA"
 ---
 
 Presented by [Ben Callahan](http://bencallahan.com/).

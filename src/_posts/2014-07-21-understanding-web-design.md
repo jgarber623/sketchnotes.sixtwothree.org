@@ -1,7 +1,7 @@
 ---
 title: "Understanding Web Design"
 date: 2014-07-21T08:59:11-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Jeffrey Zeldman](http://www.zeldman.com/).

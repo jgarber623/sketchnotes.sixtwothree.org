@@ -1,7 +1,7 @@
 ---
 title: "Design Rebel"
 date: 2014-10-10T13:27:25-0400
-tags: "convergerva"
+tags: "ConvergeRVA"
 ---
 
 Presented by [Noah Scalin](http://noahscalin.com/).

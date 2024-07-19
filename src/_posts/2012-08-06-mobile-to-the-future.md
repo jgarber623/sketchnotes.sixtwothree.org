@@ -1,7 +1,7 @@
 ---
 title: "Mobile to the Future"
 date: 2012-08-06T13:59:47-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Luke Wroblewski](http://www.lukew.com/).

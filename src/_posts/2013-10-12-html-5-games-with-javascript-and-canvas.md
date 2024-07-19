@@ -1,7 +1,7 @@
 ---
 title: "HTML5 Games with JavaScript and Canvas"
 date: 2013-10-12T11:03:52-0400
-tags: "convergerva"
+tags: "ConvergeRVA"
 ---
 
 Presented by [Dan Tello](http://viget.com/about/team/dtello).

@@ -1,7 +1,7 @@
 ---
 title: "A Day Apart: Responsive Design and Accessibility"
 date: 2014-07-23T09:40:26-0400
-tags: "aneventapartdc"
+tags: "AnEventApartDC"
 ---
 
 Presented by [Derek Featherstone](http://simplyaccessible.com/).

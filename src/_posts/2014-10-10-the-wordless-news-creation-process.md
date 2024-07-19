@@ -1,7 +1,7 @@
 ---
-category: "convergerva"
-date: 2014-10-10T14:01:01-0400
 title: "The Wordless News Creation Process"
+date: 2014-10-10T14:01:01-0400
+tags: "convergerva"
 ---
 
 Presented by [Maria Fabrizio](http://mariafabrizio.com/).

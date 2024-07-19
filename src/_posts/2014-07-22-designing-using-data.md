@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2014-07-22T14:57:20-0400
 title: "Designing Using Data"
+date: 2014-07-22T14:57:20-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Sarah Parmenter](http://www.sazzy.co.uk/).

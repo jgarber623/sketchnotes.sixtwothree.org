@@ -1,7 +1,7 @@
 ---
-category: "convergerva"
-date: 2013-10-12T09:49:51-0400
 title: "Eye Tracking and the Design Process"
+date: 2013-10-12T09:49:51-0400
+tags: "convergerva"
 ---
 
 Presented by [JD Graffam](http://simplefocus.com/).

@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2014-07-21T10:14:19-0400
 title: "The Integral Designer: Developing You"
+date: 2014-07-21T10:14:19-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Whitney Hess](http://whitneyhess.com/).

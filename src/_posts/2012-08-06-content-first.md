@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2012-08-06T09:06:38-0400
 title: "Content First!"
+date: 2012-08-06T09:06:38-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Jeffrey Zeldman](http://www.zeldman.com/).

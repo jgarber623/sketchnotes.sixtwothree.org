@@ -1,7 +1,7 @@
 ---
-category: "convergerva"
-date: 2014-10-10T11:03:45-0400
 title: "The Power of Side Projects"
+date: 2014-10-10T11:03:45-0400
+tags: "convergerva"
 ---
 
 Presented by [Matt Keas](http://www.mkeas.org/).

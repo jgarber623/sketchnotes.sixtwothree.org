@@ -1,7 +1,7 @@
 ---
-category: "convergerva"
-date: 2013-10-12T15:18:17-0400
 title: "Bower: Front-End Development with Package Management"
+date: 2013-10-12T15:18:17-0400
+tags: "convergerva"
 ---
 
 Presented by [David DeSandro](http://desandro.com/).

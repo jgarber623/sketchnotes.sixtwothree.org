@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2012-08-07T11:29:29-0400
 title: "Buttons Are a Hack"
+date: 2012-08-07T11:29:29-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Josh Clark](http://globalmoxie.com/).

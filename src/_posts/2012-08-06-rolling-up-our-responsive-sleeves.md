@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2012-08-06T16:34:48-0400
 title: "Rolling Up Our Responsive Sleeves"
+date: 2012-08-06T16:34:48-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Ethan Marcotte](http://ethanmarcotte.com/).

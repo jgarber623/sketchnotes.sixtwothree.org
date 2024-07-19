@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2012-08-07T15:09:27-0400
 title: "Designing Meetings to Work for Design"
+date: 2012-08-07T15:09:27-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Kevin M. Hoffman](http://kevinmhoffman.com/).

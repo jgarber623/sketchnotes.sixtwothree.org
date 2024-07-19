@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2013-08-05T16:16:52-0400
 title: "The Mobile Content Mandate"
+date: 2013-08-05T16:16:52-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Karen McGrane](http://karenmcgrane.com/).

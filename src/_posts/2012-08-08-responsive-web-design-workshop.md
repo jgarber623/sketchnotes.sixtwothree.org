@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2012-08-08T09:02:24-0400
 title: "Responsive Web Design Workshop"
+date: 2012-08-08T09:02:24-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Ethan Marcotte](http://ethanmarcotte.com/).

@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2012-08-06T11:32:07-0400
 title: "Upping Your Type Game"
+date: 2012-08-06T11:32:07-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Jessica Hische](http://jessicahische.is/).

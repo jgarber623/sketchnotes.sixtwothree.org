@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2012-08-06T15:16:30-0400
 title: "Beyond Media Queries: An Anatomy of an Adaptive Web Design"
+date: 2012-08-06T15:16:30-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Brad Frost](http://bradfrostweb.com/).

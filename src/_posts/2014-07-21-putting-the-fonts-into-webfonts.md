@@ -1,7 +1,7 @@
 ---
-category: "aneventapartdc"
-date: 2014-07-21T11:31:02-0400
 title: "Putting the Fonts into Webfonts"
+date: 2014-07-21T11:31:02-0400
+tags: "aneventapartdc"
 ---
 
 Presented by [Jonathan Hoefler](http://www.typography.com/).

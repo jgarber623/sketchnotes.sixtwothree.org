@@ -1,7 +1,7 @@
 ---
-category: "convergerva"
-date: 2014-10-10T14:28:43-0400
 title: "Design Renegade"
+date: 2014-10-10T14:28:43-0400
+tags: "convergerva"
 ---
 
 Presented by [James White](http://www.signalnoise.com/).

@@ -2,11 +2,11 @@
 layout: "base.liquid"
 ---
 
-<ul class="posts h-feed">
+<ol class="posts h-feed" reversed>
   {% for post in collections.post reversed %}
     <li class="h-entry">
-      <a href="{{ post.url }}" class="p-name u-url">{{ post.data.title }}</a>
-      <span class="p-category">#{{ post.data.category }}</span>
+      <a href="{{ post.url | remove_last: ".html" }}" class="p-name u-url">{{ post.data.title }}</a>
+      <span class="category p-category">{{ post.data.category }}</span>
     </li>
   {% endfor %}
-</ul>
+</ol>

@@ -4,7 +4,9 @@ date: 2013-09-19T19:00:07-0400
 tags: "RefreshDC"
 ---
 
-Presented by [John F. Croston III](http://jfciii.com/). John organizes [Accessibility Camp DC](http://accessibilitycampdc.org/).
+Presented by [John F. Croston III](http://jfciii.com/).
+
+John organizes [Accessibility Camp DC](http://accessibilitycampdc.org/).
 
 
 ## Standards and Tools

@@ -4,7 +4,9 @@ date: 2013-08-05T11:25:09-0400
 tags: "AnEventApartDC"
 ---
 
-Presented by [Jason Santa Maria](http://jasonsantamaria.com/), currently working at [Editorially](https://editorially.com/).
+Presented by [Jason Santa Maria](http://jasonsantamaria.com/).
+
+Jason currently works at [Editorially](https://editorially.com/).
 
 > Design is not an endpoint, it’s a stop along the timeline.
 

@@ -31,9 +31,16 @@
   .category {
     background: var(--color-black-translucent);
     border-radius: 0.25rem;
+    color: #fff;
     display: inline-block;
     font-size: 1rem;
     margin-left: 0.75rem;
     padding: 0.25rem 0.5rem;
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }

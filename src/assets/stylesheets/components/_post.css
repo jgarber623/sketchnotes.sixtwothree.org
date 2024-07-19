@@ -1,8 +1,4 @@
 .post-header {
-  h1 {
-    margin-top: 0;
-  }
-
   a {
     color: var(--color-base);
     text-decoration: none;

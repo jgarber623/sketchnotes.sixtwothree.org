@@ -2,9 +2,10 @@
 title: "Responsive Web Design Workshop"
 date: 2012-08-08T09:02:24-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Ethan Marcotte"
+    url: "http://ethanmarcotte.com/"
 ---
-
-Presented by [Ethan Marcotte](http://ethanmarcotte.com/).
 
 ## Introduction ##
 

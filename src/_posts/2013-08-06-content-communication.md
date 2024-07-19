@@ -2,9 +2,10 @@
 title: "Content/Communication"
 date: 2013-08-06T12:00:22-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Kristina Halvorson"
+    url: "http://braintraffic.com/"
 ---
-
-Presented by [Kristina Halvorson](http://braintraffic.com/).
 
 > This multi-device web design increases stress exponentially. — Trent Walton
 

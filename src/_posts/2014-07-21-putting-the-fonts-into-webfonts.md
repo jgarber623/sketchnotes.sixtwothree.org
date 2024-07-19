@@ -2,9 +2,10 @@
 title: "Putting the Fonts into Webfonts"
 date: 2014-07-21T11:31:02-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jonathan Hoefler"
+    url: "http://www.typography.com/"
 ---
-
-Presented by [Jonathan Hoefler](http://www.typography.com/).
 
 - [Webfonts](http://en.wikipedia.org/wiki/Webfonts) date to 1997 with Internet Explorer 4.
 - Plantin's _Index Characterum_ of 1567 - an early typographic styleguide

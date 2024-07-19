@@ -2,9 +2,10 @@
 title: "A Day Apart: Responsive Design and Accessibility"
 date: 2014-07-23T09:40:26-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Derek Featherstone"
+    url: "http://simplyaccessible.com/"
 ---
-
-Presented by [Derek Featherstone](http://simplyaccessible.com/).
 
 > Responsive does not mean accessible.
 

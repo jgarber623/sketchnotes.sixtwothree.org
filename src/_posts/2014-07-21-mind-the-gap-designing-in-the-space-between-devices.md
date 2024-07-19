@@ -2,9 +2,10 @@
 title: "Mind the Gap: Designing in the Space Between Devices"
 date: 2014-07-21T15:16:51-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Josh Clark"
+    url: "http://globalmoxie.com/"
 ---
-
-Presented by [Josh Clark](http://globalmoxie.com/).
 
 - We've gotten very good at bridging gaps online. Information flows freely around the world.
 - How do we deal with these physical gaps between our devices?

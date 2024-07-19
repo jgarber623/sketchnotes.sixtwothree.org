@@ -2,9 +2,10 @@
 title: "Building A Front-End Framework"
 date: 2013-10-12T10:31:42-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Ghaida Zahran"
+    url: "http://ghaidazahran.com/"
 ---
-
-Presented by [Ghaida Zahran](http://ghaidazahran.com/).
 
 - Zurb created [Foundation](http://foundation.zurb.com/) as a way to help people be more consistent with their design.
 - Started with the grid, then built a style guide on top of the grid.

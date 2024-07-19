@@ -2,9 +2,10 @@
 title: "The Immobile Web"
 date: 2013-08-05T15:04:33-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jason Grigsby"
+    url: "http://userfirstweb.com/"
 ---
-
-Presented by [Jason Grigsby](http://userfirstweb.com/).
 
 > 88% of tablet owners and 86% of smartphone owners use their device while watching TV.
 

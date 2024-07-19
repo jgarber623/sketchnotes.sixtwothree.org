@@ -2,9 +2,10 @@
 title: "Practical Ways to Make Your Website Accessible"
 date: 2013-09-19T19:00:07-0400
 tags: "RefreshDC"
+speakers:
+  - name: "John F. Croston III"
+    url: "http://jfciii.com/"
 ---
-
-Presented by [John F. Croston III](http://jfciii.com/).
 
 John organizes [Accessibility Camp DC](http://accessibilitycampdc.org/).
 

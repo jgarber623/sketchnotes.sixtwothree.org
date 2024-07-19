@@ -2,9 +2,10 @@
 title: "It’s a Write/Read (Mobile) Web"
 date: 2013-08-05T13:53:16-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Luke Wroblewski"
+    url: "http://www.lukew.com/"
 ---
-
-Presented by [Luke Wroblewski](http://www.lukew.com/).
 
 - Tim Berners-Lee’s original vision for the Web was that it would be a read/write experience.
 - The largest destinations on the Internet are based on user’s contributions (e.g. Google, Yahoo!, Facebook, AOL).

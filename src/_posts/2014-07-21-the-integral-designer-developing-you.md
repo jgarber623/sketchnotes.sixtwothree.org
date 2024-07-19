@@ -2,9 +2,10 @@
 title: "The Integral Designer: Developing You"
 date: 2014-07-21T10:14:19-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Whitney Hess"
+    url: "http://whitneyhess.com/"
 ---
-
-Presented by [Whitney Hess](http://whitneyhess.com/).
 
 
 ## What does it take to be integral?

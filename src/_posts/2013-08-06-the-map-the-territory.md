@@ -2,9 +2,10 @@
 title: "The Map & The Territory"
 date: 2013-08-06T11:59:26-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Ethan Marcotte"
+    url: "http://ethanmarcotte.com/"
 ---
-
-Presented by [Ethan Marcotte](http://ethanmarcotte.com/).
 
 - [Editorially](https://editorially.com/): A completely responsive web application for social writing, editing, and publishing content on the web.
 - Build a grid system off the needs of the content.

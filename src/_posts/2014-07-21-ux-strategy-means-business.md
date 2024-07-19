@@ -2,9 +2,10 @@
 title: "UX Strategy Means Business"
 date: 2014-07-21T16:30:08-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jared Spool"
+    url: "http://www.uie.com/"
 ---
-
-Presented by [Jared Spool](http://www.uie.com/).
 
 - The Montreal Gazette "played" the 2013 NHL season with EA's video game during the lockout. Pageviews went through the roof. "It really was a victory for content."
 - [The Gist](http://evanwaite.com/category/comedywriting/the-gist/): A better way to barely read the news.

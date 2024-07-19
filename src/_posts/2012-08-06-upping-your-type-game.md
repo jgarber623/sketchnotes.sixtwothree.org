@@ -2,9 +2,10 @@
 title: "Upping Your Type Game"
 date: 2012-08-06T11:32:07-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jessica Hische"
+    url: "http://jessicahische.is/"
 ---
-
-Presented by [Jessica Hische](http://jessicahische.is/).
 
 - Specialist in profession. Generalist in life.
 - [Don't Fear The Internet](http://www.dontfeartheinternet.com/)

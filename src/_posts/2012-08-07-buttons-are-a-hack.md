@@ -2,9 +2,10 @@
 title: "Buttons Are a Hack"
 date: 2012-08-07T11:29:29-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Josh Clark"
+    url: "http://globalmoxie.com/"
 ---
-
-Presented by [Josh Clark](http://globalmoxie.com/).
 
 ## The New Rules of Designing for Touch ##
 

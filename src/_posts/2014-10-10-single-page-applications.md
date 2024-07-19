@@ -2,9 +2,10 @@
 title: "Single Page Applications"
 date: 2014-10-10T09:41:24-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Tiffany France"
+    url: "http://www.tiffanyfrance.com/"
 ---
-
-Presented by [Tiffany France](http://www.tiffanyfrance.com/).
 
 - The biggest benefit has to do with user experience.
 - Single-page applications (SPAs) are supposed to provide an "app-like experience."

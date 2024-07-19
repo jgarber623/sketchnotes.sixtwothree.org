@@ -2,9 +2,10 @@
 title: "The Nimble Process: Think Before You Design"
 date: 2013-08-05T11:25:09-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jason Santa Maria"
+    url: "http://jasonsantamaria.com/"
 ---
-
-Presented by [Jason Santa Maria](http://jasonsantamaria.com/).
 
 Jason currently works at [Editorially](https://editorially.com/).
 

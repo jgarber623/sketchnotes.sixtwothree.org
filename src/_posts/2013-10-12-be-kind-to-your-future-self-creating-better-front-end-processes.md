@@ -2,9 +2,10 @@
 title: "Be Kind To Your Future Self: Creating Better Front-End Processes"
 date: 2013-10-12T15:59:37-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Patrick Fulton"
+    url: "http://www.patrickfulton.net/"
 ---
-
-Presented by [Patrick Fulton](http://www.patrickfulton.net/).
 
 ## What are you repeating?
 

@@ -2,9 +2,10 @@
 title: "Co-Design Not Redesign"
 date: 2014-07-22T16:26:54-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Kevin M. Hoffman"
+    url: "http://kevinmhoffman.com/"
 ---
-
-Presented by [Kevin M. Hoffman](http://kevinmhoffman.com/).
 
 - Guns n' Roses spent two weeks recording "[Appetite for Destruction](http://en.wikipedia.org/wiki/Appetite_for_Destruction)." Axl Rose spent _ten years_ working on "[Chinese Democracy](http://en.wikipedia.org/wiki/Chinese_democracy)."
 

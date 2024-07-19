@@ -2,9 +2,10 @@
 title: "The Power of Side Projects"
 date: 2014-10-10T11:03:45-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Matt Keas"
+    url: "http://www.mkeas.org/"
 ---
-
-Presented by [Matt Keas](http://www.mkeas.org/).
 
 - [The Iron Yard](http://theironyard.com/) – an intensive code academy providing three-month courses
 - Side projects are great for scratching your own itch.

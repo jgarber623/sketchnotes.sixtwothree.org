@@ -2,9 +2,10 @@
 title: "The Mobile Content Mandate"
 date: 2013-08-05T16:16:52-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Karen McGrane"
+    url: "http://karenmcgrane.com/"
 ---
-
-Presented by [Karen McGrane](http://karenmcgrane.com/).
 
 - [VAX-11](http://en.wikipedia.org/wiki/VAX-11): the first mini-computer with a 32-bit architecture manufactured by [Digital Equipment Corporation](http://en.wikipedia.org/wiki/Digital_Equipment_Corporation).
 - Ken Olsen, DEC CEO: "There is no reason for any individual to have a computer in his home."

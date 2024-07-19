@@ -2,9 +2,10 @@
 title: "The State of Being a Maker"
 date: 2013-10-12T13:29:04-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Bryce Bigger"
+    url: "http://thebiggerdesign.com/"
 ---
-
-Presented by [Bryce Bigger](http://thebiggerdesign.com/).
 
 - What's a Maker? Someone who brings electronics, simple machines, and code together to perform a task.
 

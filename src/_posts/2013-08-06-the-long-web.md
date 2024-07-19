@@ -2,9 +2,10 @@
 title: "The Long Web"
 date: 2013-08-06T08:44:34-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jeremy Keith"
+    url: "http://adactio.com/"
 ---
-
-Presented by [Jeremy Keith](http://adactio.com/).
 
 ## The Origins of Text
 

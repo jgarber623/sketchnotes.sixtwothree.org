@@ -2,9 +2,10 @@
 title: "Eye Tracking and the Design Process"
 date: 2013-10-12T09:49:51-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "JD Graffam"
+    url: "http://simplefocus.com/"
 ---
-
-Presented by [JD Graffam](http://simplefocus.com/).
 
 - Eye tracking is being used in many industries outside of usability testing.
 	- The medical industry is using eye tracking to detect autism in young children.

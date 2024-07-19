@@ -2,9 +2,10 @@
 title: "The Wordless News Creation Process"
 date: 2014-10-10T14:01:01-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Maria Fabrizio"
+    url: "http://mariafabrizio.com/"
 ---
-
-Presented by [Maria Fabrizio](http://mariafabrizio.com/).
 
 - Started [Wordless News](http://wordlessnews.com/) after off-handedly drawing [a sketch of the Pope's hat](http://mariafabrizio.com/#/pope-retires/).
 - Everything starts as a hand-drawn sketch.

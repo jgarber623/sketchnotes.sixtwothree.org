@@ -2,9 +2,10 @@
 title: "Git: The Story Right"
 date: 2013-10-12T12:53:18-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Jed Schneider"
+    url: "https://twitter.com/jedschneider"
 ---
-
-Presented by [Jed Schneider](https://twitter.com/jedschneider).
 
 - Git can be used for deployment, dependency management, dlivery pipelines, and—oh yeah—versioning.
 - Commit messages are about telling a good story. Tell your team what your commit is doing.

@@ -2,9 +2,10 @@
 title: "Designing Engagement"
 date: 2014-07-22T11:30:42-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jaimee Newberry"
+    url: "http://www.jaimeejaimee.com/"
 ---
-
-Presented by [Jaimee Newberry](http://www.jaimeejaimee.com/).
 
 > Our products are the connective tissue between human beings.
 

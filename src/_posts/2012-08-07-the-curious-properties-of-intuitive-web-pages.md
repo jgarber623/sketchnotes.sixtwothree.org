@@ -2,9 +2,10 @@
 title: "The Curious Properties of Intuitive Web Pages"
 date: 2012-08-07T16:32:38-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jared Spool"
+    url: "http://www.uie.com/"
 ---
-
-Presented by [Jared Spool](http://www.uie.com/).
 
 - That thing in a scrollbar is called [an elevator](http://www.usabilityfirst.com/glossary/scroll-elevator/).
 

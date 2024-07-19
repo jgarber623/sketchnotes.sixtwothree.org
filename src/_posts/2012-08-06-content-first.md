@@ -2,9 +2,10 @@
 title: "Content First!"
 date: 2012-08-06T09:06:38-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jeffrey Zeldman"
+    url: "http://www.zeldman.com/"
 ---
-
-Presented by [Jeffrey Zeldman](http://www.zeldman.com/).
 
 - Content is a design problem, and yet our designs are often hostile to it.
 - Get the right content to the right user at the right time. That's what design is. So say Zeldman.

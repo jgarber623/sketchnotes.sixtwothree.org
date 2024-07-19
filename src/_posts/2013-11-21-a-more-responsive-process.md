@@ -2,9 +2,10 @@
 title: "A More Responsive Process"
 date: 2013-11-21T19:00:49-0500
 tags: "RefreshDC"
+speakers:
+  - name: "Brandon Gray"
+    url: "https://twitter.com/brandongray"
 ---
-
-Presented by [Brandon Gray](https://twitter.com/brandongray).
 
 The shift from responsive is akin to the shift from table-based layout to semantic markup and CSS for layout.
 

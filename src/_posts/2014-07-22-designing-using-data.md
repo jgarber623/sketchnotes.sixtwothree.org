@@ -2,9 +2,10 @@
 title: "Designing Using Data"
 date: 2014-07-22T14:57:20-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Sarah Parmenter"
+    url: "http://www.sazzy.co.uk/"
 ---
-
-Presented by [Sarah Parmenter](http://www.sazzy.co.uk/).
 
 - What we don't have is designers who can explain their design.
 

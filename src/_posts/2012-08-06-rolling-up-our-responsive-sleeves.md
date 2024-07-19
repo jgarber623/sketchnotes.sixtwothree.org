@@ -2,9 +2,10 @@
 title: "Rolling Up Our Responsive Sleeves"
 date: 2012-08-06T16:34:48-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Ethan Marcotte"
+    url: "http://ethanmarcotte.com/"
 ---
-
-Presented by [Ethan Marcotte](http://ethanmarcotte.com/).
 
 - [Henry Adams](http://en.wikipedia.org/wiki/Henry_Adams): "Chaos was the law of nature; Order was the dream of man."
 - [Samuel Johnson](http://en.wikipedia.org/wiki/Samuel_Johnson)

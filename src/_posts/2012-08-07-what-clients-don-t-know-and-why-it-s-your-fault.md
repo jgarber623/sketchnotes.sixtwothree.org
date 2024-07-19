@@ -2,9 +2,10 @@
 title: "What Clients Don’t Know (and Why It’s Your Fault)"
 date: 2012-08-07T13:57:44-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Mike Monteiro"
+    url: "http://mikemonteiro.com/"
 ---
-
-Presented by [Mike Monteiro](http://mikemonteiro.com/).
 
 - Use our expertise to show empathy toward a client to help them understand what we do. Basically, empower the client through education.
 - "How much does a website cost?" is no different a question than, "How much does a bike cost?"

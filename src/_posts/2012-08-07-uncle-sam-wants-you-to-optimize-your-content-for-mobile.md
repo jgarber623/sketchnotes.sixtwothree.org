@@ -2,9 +2,10 @@
 title: "Uncle Sam Wants You (To Optimize Your Content for Mobile)"
 date: 2012-08-07T08:58:19-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Karen McGrane"
+    url: "http://karenmcgrane.com/"
 ---
-
-Presented by [Karen McGrane](http://karenmcgrane.com/).
 
 - [Digital Equipment Corporation's](http://en.wikipedia.org/wiki/Digital_Equipment_Corporation) [PDP 8E](http://en.wikipedia.org/wiki/PDP-8): The world's first mini-computer.
 - By 1988, DEC was the second largest computer company, behind IBM.

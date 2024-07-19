@@ -2,9 +2,10 @@
 title: "Ten Commandments of Web Design"
 date: 2013-08-05T09:00:37-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jeffrey Zeldman"
+    url: "http://www.zeldman.com/"
 ---
-
-Presented by [Jeffrey Zeldman](http://www.zeldman.com/).
 
 - This presentation is about ways to find your edge. What makes you great?
 

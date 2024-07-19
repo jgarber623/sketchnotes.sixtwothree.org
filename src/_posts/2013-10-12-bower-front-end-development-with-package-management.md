@@ -2,9 +2,10 @@
 title: "Bower: Front-End Development with Package Management"
 date: 2013-10-12T15:18:17-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "David DeSandro"
+    url: "http://desandro.com/"
 ---
-
-Presented by [David DeSandro](http://desandro.com/).
 
 ## All those dependencies…
 

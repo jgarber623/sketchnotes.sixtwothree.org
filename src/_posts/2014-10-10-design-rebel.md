@@ -2,9 +2,10 @@
 title: "Design Rebel"
 date: 2014-10-10T13:27:25-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Noah Scalin"
+    url: "http://noahscalin.com/"
 ---
-
-Presented by [Noah Scalin](http://noahscalin.com/).
 
 - [Howard Zinn](https://en.m.wikipedia.org/wiki/Howard_zinn)'s [A People's History of the United States](https://en.m.wikipedia.org/wiki/A_People%27s_History_of_the_United_States)
 - [Occupying Political Science: The Occupy Wall Street Movement from New York to the World](http://opportunitas.blogs.pace.edu/2013/01/the-occupiers/) — created some artwork for the Occupy movement that was repurposed in a number of ways, including for this book cover.

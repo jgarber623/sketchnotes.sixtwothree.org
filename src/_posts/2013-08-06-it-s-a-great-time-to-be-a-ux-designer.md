@@ -2,9 +2,10 @@
 title: "It’s a Great Time To Be a UX Designer"
 date: 2013-08-06T12:01:38-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jared Spool"
+    url: "http://www.uie.com/"
 ---
-
-Presented by [Jared Spool](http://www.uie.com/).
 
 - There are 41 imitation Apple Stores ("Apple Stoer") in Kunming, China.
 - Almost as many people visited Apple Stores as visited Disney theme parks.

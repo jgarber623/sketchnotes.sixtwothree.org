@@ -2,9 +2,10 @@
 title: "Designing Meetings to Work for Design"
 date: 2012-08-07T15:09:27-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Kevin M. Hoffman"
+    url: "http://kevinmhoffman.com/"
 ---
-
-Presented by [Kevin M. Hoffman](http://kevinmhoffman.com/).
 
 - We only retain 20% of what we hear. We retain 30% of what we see.
 - We retain 50% of what we hear **and** see (multimodal learning).

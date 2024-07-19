@@ -2,9 +2,10 @@
 title: "HTML5 Games with JavaScript and Canvas"
 date: 2013-10-12T11:03:52-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Dan Tello"
+    url: "http://viget.com/about/team/dtello"
 ---
-
-Presented by [Dan Tello](http://viget.com/about/team/dtello).
 
 ![Dan Tello presenting at ConvergeRVA](http://distilleryimage5.ak.instagram.com/233e79b2335011e38c1322000a1fb036_8.jpg)
 

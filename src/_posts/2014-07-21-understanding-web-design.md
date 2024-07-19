@@ -2,9 +2,10 @@
 title: "Understanding Web Design"
 date: 2014-07-21T08:59:11-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Jeffrey Zeldman"
+    url: "http://www.zeldman.com/"
 ---
-
-Presented by [Jeffrey Zeldman](http://www.zeldman.com/).
 
 - When half of people don't understand what we do or why we do it, it becomes impossible to deliver good design.
 

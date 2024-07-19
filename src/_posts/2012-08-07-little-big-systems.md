@@ -2,9 +2,10 @@
 title: "Little Big Systems"
 date: 2012-08-07T10:15:46-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Erin Kissane"
+    url: "http://incisive.nu/"
 ---
-
-Presented by [Erin Kissane](http://incisive.nu/).
 
 - [Little Big Planet](http://www.littlebigplanet.com/) is the marriage of Systems and Craft.
 - Content Strategy is system design.

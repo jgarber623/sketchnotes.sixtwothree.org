@@ -2,9 +2,10 @@
 title: "#RWD is Still Hard/Easy"
 date: 2014-07-22T08:58:56-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Dan Mall"
+    url: "http://danielmall.com/"
 ---
-
-Presented by [Dan Mall](http://danielmall.com/).
 
 - Why do we model our agencies and/or teams around the outdated assembly line process?
 

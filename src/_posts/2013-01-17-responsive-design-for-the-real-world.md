@@ -2,9 +2,10 @@
 title: "Responsive Design for the Real World"
 date: 2013-01-17T19:00:00-0500
 tags: "RefreshDC"
+speakers:
+  - name: "Clarissa Peterson"
+    url: "http://www.clarissapeterson.com/"
 ---
-
-Presented by [Clarissa Peterson](http://www.clarissapeterson.com/).
 
 ## Frameworks
 

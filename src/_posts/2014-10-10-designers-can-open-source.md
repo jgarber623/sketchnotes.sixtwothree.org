@@ -2,9 +2,10 @@
 title: "Designers Can Open Source"
 date: 2014-10-10T09:07:31-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Garth Braithwaite"
+    url: "http://www.garthdb.com/"
 ---
-
-Presented by [Garth Braithwaite](http://www.garthdb.com/).
 
 - [DesignOpen.org](http://designopen.org)
 - [The Noun Project](http://thenounproject.com/)

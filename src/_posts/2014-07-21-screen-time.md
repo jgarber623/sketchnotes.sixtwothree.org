@@ -2,9 +2,10 @@
 title: "Screen Time"
 date: 2014-07-21T13:59:58-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Luke Wroblewski"
+    url: "http://lukew.com/"
 ---
-
-Presented by [Luke Wroblewski](http://lukew.com/).
 
 - In 1952, Don Stookey [experimented on photosensitive glass](http://www.wired.com/2012/09/ff-corning-gorilla-glass/all/) at the Corning Institute. This was the first synthetic glass ceramic.
 - Corning's Gorilla Glass is the same previously-shelved 0317 experimental product. It's now in 1.5 billion devices.

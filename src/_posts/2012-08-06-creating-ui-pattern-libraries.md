@@ -2,9 +2,10 @@
 title: "Creating UI Pattern Libraries"
 date: 2012-08-06T10:14:38-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Sarah Parmenter"
+    url: "http://www.sazzy.co.uk/"
 ---
-
-Presented by [Sarah Parmenter](http://www.sazzy.co.uk/).
 
 - Rebranded! "The Responsive Workflow"
 - Responsive design is like a never-ending piece of art. It's always evolving.

@@ -2,9 +2,10 @@
 title: "Mobile to the Future"
 date: 2012-08-06T13:59:47-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Luke Wroblewski"
+    url: "http://www.lukew.com/"
 ---
-
-Presented by [Luke Wroblewski](http://www.lukew.com/).
 
 - Mobile may be the [seventh form of mass media](http://en.wikipedia.org/wiki/Seven_mass_media) after print, recorded sound, motion pictures, radio, television, and the Internet. Theory posited by [Tomi Ahonen](http://mobile7th.futuretext.com/).
 - There are more iPhones sold every day than there are babies being born (378,000 vs. 371,000).

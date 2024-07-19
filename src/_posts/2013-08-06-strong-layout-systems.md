@@ -2,9 +2,10 @@
 title: "Strong Layout Systems"
 date: 2013-08-06T08:46:17-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Eric Meyer"
+    url: "http://meyerweb.com/"
 ---
-
-Presented by [Eric Meyer](http://meyerweb.com/).
 
 > The Web prioritizes ubiquity over consistency.
 

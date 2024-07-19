@@ -2,9 +2,10 @@
 title: "Design Renegade"
 date: 2014-10-10T14:28:43-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "James White"
+    url: "http://www.signalnoise.com/"
 ---
-
-Presented by [James White](http://www.signalnoise.com/).
 
 ## Growing Up
 

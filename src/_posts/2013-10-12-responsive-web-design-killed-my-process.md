@@ -2,9 +2,10 @@
 title: "Responsive Web Design Killed My Process"
 date: 2013-10-12T08:51:44-0400
 tags: "ConvergeRVA"
+speakers:
+  - name: "Ben Callahan"
+    url: "http://bencallahan.com/"
 ---
-
-Presented by [Ben Callahan](http://bencallahan.com/).
 
 > Before RWD, we pretended like things were pretty simple.
 

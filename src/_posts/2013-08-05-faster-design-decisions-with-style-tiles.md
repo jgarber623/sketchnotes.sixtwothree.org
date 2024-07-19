@@ -2,9 +2,10 @@
 title: "Faster Design Decisions with Style Tiles"
 date: 2013-08-05T10:05:32-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Samantha Warren"
+    url: "http://badassideas.com/"
 ---
-
-Presented by [Samantha Warren](http://badassideas.com/).
 
 > Princess Bride was my Star Wars.
 

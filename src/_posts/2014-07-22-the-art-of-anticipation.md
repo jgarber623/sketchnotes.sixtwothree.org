@@ -2,9 +2,10 @@
 title: "The Art of Anticipation"
 date: 2014-07-22T10:16:39-0400
 tags: "AnEventApartDC"
+speakers:
+  - name: "Derek Featherstone"
+    url: "http://simplyaccessible.com/"
 ---
-
-Presented by [Derek Featherstone](http://simplyaccessible.com/).
 
 - How do we use anticipation to create moments of joy and excitement?
 - It's natural to get sucked into thinking that design is about the device.

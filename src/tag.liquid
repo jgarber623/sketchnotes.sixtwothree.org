@@ -1,0 +1,18 @@
+---
+eleventyComputed:
+  title: "Notes tagged “{{ tag }}”"
+layout: "layouts/base.liquid"
+pagination:
+  alias: tag
+  data: collections
+  size: 1
+  filter: ["all", "post"]
+permalink: "{{ tag }}.html"
+---
+
+<h1>Notes tagged “{{ tag }}”</h1>
+
+<ol class="posts h-feed" reversed>
+  {% assign posts = collections[tag] | reverse %}
+  {% render "post.liquid" for posts as post %}
+</ol>

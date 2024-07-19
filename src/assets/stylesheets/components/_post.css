@@ -1,4 +1,10 @@
 .post-header {
+  p {
+    background: var(--color-black-translucent);
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.75rem;
+  }
+
   a {
     color: var(--color-base);
     text-decoration: none;

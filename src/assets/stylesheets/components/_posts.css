@@ -1,26 +1,39 @@
 .posts {
-  font-size: 1.2em;
+  font-size: 1.25rem;
   list-style: none;
   margin: 0;
-  padding: 0 0 0 1em;
+  padding: 0 0 0 1.75rem;
 
   li {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
     position: relative;
 
     &::before {
-      content: "\00BB";
-      display: block;
-      left: -1em;
+      color: var(--color-white);
+      content: "↪";
+      left: -1.75rem;
       position: absolute;
-      top: 0;
+      top: 0.125rem;
+    }
+
+    &:hover::before,
+    &:has(:focus)::before {
+      color: var(--color-white-hover);
     }
 
     + li {
-      margin-top: 0.8em;
+      margin-top: 0.75rem;
     }
   }
 
   .category {
-    font-size: 0.8em;
+    background: var(--color-black-translucent);
+    border-radius: 0.25rem;
+    display: inline-block;
+    font-size: 1rem;
+    margin-left: 0.75rem;
+    padding: 0.25rem 0.5rem;
   }
 }

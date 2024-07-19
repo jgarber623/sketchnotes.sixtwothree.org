@@ -1,4 +1,4 @@
 <li class="h-entry">
   <a href="{{ post.url | remove_last: ".html" }}" class="p-name u-url">{{ post.data.title }}</a>
-  <a href="/{{ post.data.tags[1] }}" class="category p-category">{{ post.data.tags[1] }}</a>
+  <a href="/{{ post.data.tags[1] | slugify }}" class="category p-category">{{ post.data.tags[1] }}</a>
 </li>

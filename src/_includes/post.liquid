@@ -1,15 +1,4 @@
----
-layout: "base.liquid"
----
-
-<article class="post h-entry">
-  <header class="post-header">
-    <h1>
-      <a href="{{ page.url | remove_last: ".html" }}" class="p-name u-url">{{ title }}</a>
-    </h1>
-  </header>
-
-  <div class="post-content e-content">
-    {{ content }}
-  </div>
-</article>
+<li class="h-entry">
+  <a href="{{ post.url | remove_last: ".html" }}" class="p-name u-url">{{ post.data.title }}</a>
+  <a href="/{{ post.data.tags[1] }}" class="category p-category">{{ post.data.tags[1] }}</a>
+</li>

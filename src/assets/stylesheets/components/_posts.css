@@ -5,8 +5,8 @@
   padding: 0 0 0 1.75rem;
 
   li {
-    display: flex;
     align-items: baseline;
+    display: flex;
     justify-content: space-between;
     position: relative;
 

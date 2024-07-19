@@ -1,5 +1,5 @@
 export default {
-  layout: "post",
-  permalink: "{{ category }}/{{ page.fileSlug }}.html",
+  layout: "layouts/post.liquid",
+  permalink: "{{ tags[1] }}/{{ page.fileSlug }}.html",
   tags: ["post"],
 };

@@ -1,5 +1,4 @@
 {
   "layout": "layouts/post.liquid",
-  "permalink": "{{ tags[1] | slugify }}/{{ page.fileSlug }}.html",
-  "tags": ["post"]
+  "permalink": "{{ tags | slugify }}/{{ page.fileSlug }}.html"
 }

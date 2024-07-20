@@ -5,6 +5,11 @@ import markdownPlugin from "@jgarber/eleventy-plugin-markdown";
 import postcssPlugin from "@jgarber/eleventy-plugin-postcss";
 
 export default async function(eleventyConfig) {
+  // Collections
+  eleventyConfig.addCollection("post", (collection) => {
+    return collection.getFilteredByGlob("./src/_posts/**/*.md");
+  });
+
   // Global Data
   eleventyConfig.addGlobalData("app", JSON.parse(await fs.readFile("./src/manifest.webmanifest.json")));
 

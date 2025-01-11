@@ -19,7 +19,7 @@ export default async function(eleventyConfig) {
     .addPassthroughCopy("./src/_headers")
     .addPassthroughCopy("./src/*.{ico,png,txt}")
     .addPassthroughCopy({
-      "./src/manifest.webmanifest.json": "manifest.webmanifest"
+      "./src/manifest.webmanifest.json": "manifest.webmanifest",
     });
 
   // Plugins

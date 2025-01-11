@@ -1,6 +1,7 @@
 import eleventyPluginLiquid from "@jgarber/eleventy-plugin-liquid";
 import eleventyPluginMarkdown from "@jgarber/eleventy-plugin-markdown";
 import eleventyPluginPostcss from "@jgarber/eleventy-plugin-postcss";
+import eleventyPluginRoutes from "@jgarber/eleventy-plugin-routes";
 
 import manifest from "./src/manifest.webmanifest.json" with { type: "json" };
 
@@ -32,6 +33,7 @@ export default async function(eleventyConfig) {
 
   eleventyConfig.addPlugin(eleventyPluginMarkdown);
   eleventyConfig.addPlugin(eleventyPluginPostcss);
+  eleventyConfig.addPlugin(eleventyPluginRoutes);
 }
 
 export const config = {
